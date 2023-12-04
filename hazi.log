@@ -1,0 +1,2030 @@
+
+********************************************************
+* MEMORIASZIVARGAS VAN A PROGRAMBAN!!!
+********************************************************
+
+** DEBUGMALLOC DUMP ************************************
+** 1/289. rekord:
+  00000157f0021000, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 73 20 48 61 6a 6e 61 6c 6b 61 00 4b 4b   Kiss Hajnalka.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff8c 10 00 00 6d 00 00 00 1f ffffff85 ffffffeb 51 ffffffb8 1e 12 40   ....m..../
+      0030  52 ffffffb8 1e ffffff85 ffffffeb 51 0a 40 00 00 00 00 4b 4b 4b 4b   R....Q.@....KKK∏/
+** 2/289. rekord:
+  00000157f0030010, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 6f 67 6e 61 72 20 49 76 65 74 74 00 4b 4b 4b   Bognar Ivett.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff84 11 00 00 76 00 00 00 ffffffa4 70 3d 0a ffffffd7 ffffffa3 21 40   ....v..../
+      0030  14 ffffffae 47 ffffffe1 7a 14 0e 40 00 00 00 00 4b 4b 4b 4b   ..G.z..@....KKKK
+** 3/289. rekord:
+  00000157f0027020, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 6c 61 7a 73 20 41 72 70 61 64 69 6e 61 00   Balazs Arpadina.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  44 11 00 00 76 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 19 40   D...v..../
+      0030  0a ffffffd7 ffffffa3 70 3d 0a 0f 40 00 00 00 00 4b 4b 4b 4b   ...p=..@....KKKK
+** 4/289. rekord:
+  00000157f0006020, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 65 67 65 64 75 73 20 44 61 6e 69 65 6c 00 4b   Hegedus Daniel.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  38 0e 00 00 6d 00 00 00 ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 08 408
+      0030  33 33 33 33 33 33 fffffff7 3f 00 00 00 00 4b 4b 4b 4b   333333.?....KKKK
+** 5/289. rekord:
+  00000157f000a040, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 62 6f 20 45 6d 65 73 65 00 4b 4b 4b 4b   Szabo Emese.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa8 0e 00 00 6d 00 00 00 52 ffffffb8 1e ffffff85 ffffffeb 51 21 40   ....m...R/
+      0030  ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 08 40 00 00 00 00 4b 4b 4b 4bÕ
+** 6/289. rekord:
+  00000157f0031050, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 6c 61 69 20 4a 65 6e 6f 00 4b 4b 4b 4b   Szalai Jeno.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff8c 11 00 00 76 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 20 40   .../
+      0030  14 ffffffae 47 ffffffe1 7a 14 08 40 00 00 00 00 4b 4b 4b 4b   ..G.z..@....KKKK
+** 7/289. rekord:
+  00000157f000c050, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4a 75 68 61 73 7a 20 50 65 74 72 61 00 4b 4b 4b   Juhasz Petra.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffd4 0e 00 00 6d 00 00 00 29 5c ffffff8f ffffffc2 fffffff5 28 10 40   ....m...)/
+      0030  ffffffe1 7a 14 ffffffae 47 ffffffe1 08 40 00 00 00 00 4b 4b 4b 4b   .z..G..@....KKKz{
+** 8/289. rekord:
+  00000157f0007060, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  54 6f 72 6f 6b 20 48 61 6a 6e 61 00 4b 4b 4b 4b   Torok Hajna.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  34 0e 00 00 6d 00 00 00 ffffffd7 ffffffa3 70 3d 0a ffffffd7 21 40   4...m.....p=..!/
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 04 40 00 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 9/289. rekord:
+  00000157f0010070, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  52 6f 7a 73 61 20 54 69 74 75 73 7a 00 4b 4b 4b   Rozsa Titusz.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  40 0f 00 00 6d 00 00 00 71 3d 0a ffffffd7 ffffffa3 70 16 40   @...m...q=...p.@
+      0030  ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 11 40 00 00 00 00 4b 4b 4b 4b   ....Q..@./
+** 10/289. rekord:
+  00000157f000b080, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 61 6a 64 75 20 50 61 6c 00 4b 4b 4b 4b 4b 4b   Hajdu Pal.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  7c 0e 00 00 76 00 00 00 ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 10 40   |...v..../
+      0030  33 33 33 33 33 33 13 40 10 00 00 00 4b 4b 4b 4b   333333.@....KKKK
+** 11/289. rekord:
+  00000157f0014090, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 61 6c 61 73 7a 20 41 6c 62 69 6e 00 4b 4b 4b   Halasz Albin.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  68 0f 00 00 6d 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 12 40   h...m......p=..@
+      0030  0a ffffffd7 ffffffa3 70 3d 0a 07 40 09 00 00 00 4b 4b 4b 4b   ...p=..@....KKKK
+** 12/289. rekord:
+  00000157f000d090, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 65 68 65 72 20 47 65 72 67 65 6c 79 00 4b 4b   Feher Gergely.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffff4 0e 00 00 6d 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 18 40   .../
+      0030  5c ffffff8f ffffffc2 fffffff5 28 5c 07 40 00 00 00 00 4b 4b 4b 4b   \...(\.@....KKKè/
+** 13/289. rekord:
+  00000157f0187090, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 6c 61 68 20 54 75 6e 64 65 00 4b 4b 4b 4b 4b   Olah Tunde.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff80 0d 00 00 6d 00 00 00 71 3d 0a ffffffd7 ffffffa3 70 17 40   ....m...q=...p./
+      0030  1f ffffff85 ffffffeb 51 ffffffb8 1e 03 40 00 00 00 00 4b 4b 4b 4b   ...Q...@....KKKÖ/
+** 14/289. rekord:
+  00000157f00160a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 61 6c 61 73 7a 20 46 61 74 69 6d 61 00 4b 4b   Halasz Fatima.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb0 0f 00 00 6d 00 00 00 ffffffa4 70 3d 0a ffffffd7 ffffffa3 04 40   ....m..../
+      0030  ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 0a 40 00 00 00 00 4b 4b 4b 4bÕ
+** 15/289. rekord:
+  00000157f00110b0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 62 6f 20 43 73 65 6e 67 65 00 4b 4b 4b   Szabo Csenge.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  30 0f 00 00 6d 00 00 00 14 ffffffae 47 ffffffe1 7a 14 0a 40   0...m.....G.z..@
+      0030  0a ffffffd7 ffffffa3 70 3d 0a 09 40 00 00 00 00 4b 4b 4b 4b   ...p=..@....KKKK
+** 16/289. rekord:
+  00000157f001a0c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 61 74 61 6b 69 20 49 73 74 76 61 6e 00 4b 4b   Pataki Istvan.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  24 10 00 00 6d 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 03 40   $...m......p=..@
+      0030  ffffffe1 7a 14 ffffffae 47 ffffffe1 0e 40 00 00 00 00 4b 4b 4b 4b   .z..G..@....KKKz{
+** 17/289. rekord:
+  00000157f00150d0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 61 70 70 20 48 6f 72 74 65 6e 7a 69 61 00 4b   Papp Hortenzia.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff80 0f 00 00 6d 00 00 00 ffffffae 47 ffffffe1 7a 14 ffffffae 01 40   ....m..../
+      0030  33 33 33 33 33 33 05 40 00 00 00 00 4b 4b 4b 4b   333333.@....KKKK
+** 18/289. rekord:
+  00000157f018a0d0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 61 6c 61 73 7a 20 47 61 62 6f 72 00 4b 4b 4b   Halasz Gabor.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb0 0d 00 00 6d 00 00 00 7b 14 ffffffae 47 ffffffe1 7a 11 40   ....m...{..G.z./
+      0030  3d 0a ffffffd7 ffffffa3 70 3d 0c 40 00 00 00 00 4b 4b 4b 4b   =...p=.@....KKKK
+** 19/289. rekord:
+  00000157f001e0e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 76 61 63 68 20 56 69 76 69 65 6e 00 4b 4b   Kovach Vivien.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff94 10 00 00 6d 00 00 00 ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 14 40   .../
+      0030  66 66 66 66 66 66 11 40 0c 00 00 00 4b 4b 4b 4b   ffffff.@....KKKK
+** 20/289. rekord:
+  00000157f00170e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 6f 76 61 6b 20 56 69 6c 6d 61 00 4b 4b 4b 4b   Novak Vilma.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb4 0f 00 00 6d 00 00 00 ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 1d 40   .../
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 07 40 00 00 00 00 4b 4b 4b 4b   ..Q....@.Î/
+** 21/289. rekord:
+  00000157f018b0e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 6f 6f 73 20 5a 73 61 6b 6c 69 6e 00 4b 4b 4b   Soos Zsaklin.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffec 0d 00 00 6d 00 00 00 33 33 33 33 33 33 18 40   ....m...333333.@
+      0030  0a ffffffd7 ffffffa3 70 3d 0a 0d 40 00 00 00 00 4b 4b 4b 4b   ...p=..@....KKKK
+** 22/289. rekord:
+  00000157f0024100, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 6f 6d 6f 67 79 69 20 45 6d 6d 61 00 4b 4b 4b   Somogyi Emma.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffff4 10 00 00 6d 00 00 00 ffffffae 47 ffffffe1 7a 14 ffffffae 1f 40   ....m..../
+      0030  48 ffffffe1 7a 14 ffffffae 47 0f 40 00 00 00 00 4b 4b 4b 4b   H.z..G.@....KKKK
+** 23/289. rekord:
+  00000157f001b100, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 6f 64 6f 72 20 4c 75 63 61 00 4b 4b 4b 4b 4b   Fodor Luca.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  00 10 00 00 76 00 00 00 48 ffffffe1 7a 14 ffffffae 47 0d 40   ....v...H.z..G.@
+      0030  ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 02 40 00 00 00 00 4b 4b 4b 4bÕ
+** 24/289. rekord:
+  00000157f0188110, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 6c 61 68 20 48 65 6e 72 69 65 74 74 61 00 4b   Olah Henrietta.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff98 0d 00 00 6d 00 00 00 48 ffffffe1 7a 14 ffffffae 47 15 40   ....m...H.z..G./
+      0030  33 33 33 33 33 33 09 40 00 00 00 00 4b 4b 4b 4b   333333.@....KKKK
+** 25/289. rekord:
+  00000157f001f120, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 20 42 65 72 6e 61 64 65 74 74 00 4b 4b   Kis Bernadett.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  74 10 00 00 6d 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f 42 21 40   t...m.....(\.B!/
+      0030  fffffff6 28 5c ffffff8f ffffffc2 fffffff5 0a 40 00 00 00 00 4b 4b 4b 4b   .(\....@.()
+** 26/289. rekord:
+  00000157f018c120, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 76 61 74 73 20 50 61 75 6c 61 00 4b 4b 4b   Kovats Paula.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  0c 0e 00 00 6d 00 00 00 ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 02 40   ....m..../
+      0030  ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 11 40 00 00 00 00 4b 4b 4b 4bÕ
+** 27/289. rekord:
+  00000157f002e130, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 73 20 48 65 6e 72 69 65 74 74 61 00 4b   Kiss Henrietta.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  78 11 00 00 6d 00 00 00 71 3d 0a ffffffd7 ffffffa3 70 18 40   x...m...q=...p.@
+      0030  ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 01 40 00 00 00 00 4b 4b 4b 4bö
+** 28/289. rekord:
+  00000157f0025140, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 20 47 65 6e 6f 76 65 76 61 00 4b 4b 4b   Kis Genoveva.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  28 11 00 00 6d 00 00 00 ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 08 40(
+      0030  5c ffffff8f ffffffc2 fffffff5 28 5c 13 40 00 00 00 00 4b 4b 4b 4b   \...(\.@....KKKè/
+** 29/289. rekord:
+  00000157f0020160, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 65 7a 6f 20 4c 61 6a 6f 73 00 4b 4b 4b 4b 4b   Mezo Lajos.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb0 10 00 00 76 00 00 00 1f ffffff85 ffffffeb 51 ffffffb8 1e 20 40   ....v..../
+      0030  ffffffae 47 ffffffe1 7a 14 ffffffae 09 40 11 00 00 00 4b 4b 4b 4b   .G.z...@....KKKGH
+** 30/289. rekord:
+  00000157f002f170, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 65 68 65 72 20 47 61 73 70 61 72 00 4b 4b 4b   Feher Gaspar.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa4 11 00 00 76 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 0f 40   ....v...\/
+      0030  ffffffe1 7a 14 ffffffae 47 ffffffe1 04 40 00 00 00 00 4b 4b 4b 4b   .z..G..@....KKKz{
+** 31/289. rekord:
+  00000157f0026180, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4c 65 6e 67 79 65 6c 20 47 65 6c 6c 65 72 74 00   Lengyel Gellert.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  08 11 00 00 6d 00 00 00 14 ffffffae 47 ffffffe1 7a 14 17 40   ....m.....G.z..@
+      0030  5c ffffff8f ffffffc2 fffffff5 28 5c fffffffb 3f 00 00 00 00 4b 4b 4b 4b   \...(\.?.è/
+** 32/289. rekord:
+  00000157f00211a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 69 72 6f 20 41 64 61 6d 00 4b 4b 4b 4b 4b 4b   Biro Adam.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  7c 10 00 00 6d 00 00 00 ffffffd7 ffffffa3 70 3d 0a ffffffd7 1e 40   |...m.....p=.../
+      0030  fffffff6 28 5c ffffff8f ffffffc2 fffffff5 0c 40 00 00 00 00 4b 4b 4b 4b   .(\....@.()
+** 33/289. rekord:
+  00000157f00301b0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 69 72 6f 20 56 65 6e 63 65 6c 00 4b 4b 4b 4b   Biro Vencel.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc0 11 00 00 76 00 00 00 14 ffffffae 47 ffffffe1 7a 14 1e 40   ....v.....G.z../
+      0030  ffffffae 47 ffffffe1 7a 14 ffffffae 0b 40 00 00 00 00 4b 4b 4b 4b   .G.z...@....KKKGH
+** 34/289. rekord:
+  00000157f00271c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  44 65 61 6b 20 4b 61 72 6f 6c 69 6e 61 00 4b 4b   Deak Karolina.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  30 11 00 00 6d 00 00 00 ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 08 40   0...m..../
+      0030  14 ffffffae 47 ffffffe1 7a 14 fffffff6 3f 00 00 00 00 4b 4b 4b 4b   ..G.z..?....KKKÆ/
+** 35/289. rekord:
+  00000157f00061c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 73 20 4c 75 6a 7a 61 00 4b 4b 4b 4b 4b   Kiss Lujza.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  20 0e 00 00 75 00 00 00 3d 0a ffffffd7 ffffffa3 70 3d 20 40    ...u...=...p= @
+      0030  ffffffe1 7a 14 ffffffae 47 ffffffe1 0e 40 00 00 00 00 4b 4b 4b 4b   .z..G..@....KKKz{
+** 36/289. rekord:
+  00000157f000a1e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 69 6c 61 67 79 69 20 56 69 6c 6d 6f 73 00   Szilagyi Vilmos.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffac 0e 00 00 76 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 0b 40   .../
+      0030  71 3d 0a ffffffd7 ffffffa3 70 09 40 00 00 00 00 4b 4b 4b 4b   q=...p.@....KKKK
+** 37/289. rekord:
+  00000157f00311f0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 72 61 6c 79 20 48 65 72 6d 69 6e 61 00 4b   Kiraly Hermina.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff80 11 00 00 75 00 00 00 66 66 66 66 66 66 1d 40   ....u...ffffff.@
+      0030  ffffffae 47 ffffffe1 7a 14 ffffffae 0f 40 00 00 00 00 4b 4b 4b 4b   .G.z...@....KKKGH
+** 38/289. rekord:
+  00000157f000c1f0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 75 63 73 20 4d 61 72 69 65 74 74 61 00 4b   Szucs Marietta.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe0 0e 00 00 6d 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 07 40   .../
+      0030  3d 0a ffffffd7 ffffffa3 70 3d 0e 40 00 00 00 00 4b 4b 4b 4b   =...p=.@....KKKK
+** 39/289. rekord:
+  00000157f0007200, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 6c 6f 67 20 4c 65 6f 6e 61 00 4b 4b 4b 4b   Balog Leona.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  58 0e 00 00 6d 00 00 00 48 ffffffe1 7a 14 ffffffae 47 03 40   X...m...H.z..G.@
+      0030  ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 0b 40 00 00 00 00 4b 4b 4b 4bö
+** 40/289. rekord:
+  00000157f0010210, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 69 72 61 67 68 20 42 65 72 6e 61 74 00 4b 4b   Viragh Bernat.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  38 0f 00 00 6d 00 00 00 1f ffffff85 ffffffeb 51 ffffffb8 1e 1d 40   8...m......Q.../
+      0030  ffffffe1 7a 14 ffffffae 47 ffffffe1 08 40 03 00 00 00 4b 4b 4b 4b   .z..G..@....KKKz{
+** 41/289. rekord:
+  00000157f000b220, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4c 65 6e 67 79 65 6c 20 5a 73 6f 66 69 61 00 4b   Lengyel Zsofia.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+  ....m..........@
+      0030  ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 01 40 00 00 00 00 4b 4b 4b 4b   .Q.....@.QR
+** 42/289. rekord:
+  00000157f0014230, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 65 68 65 72 20 56 61 6e 65 73 73 7a 61 00 4b   Feher Vanessza.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff88 0f 00 00 6d 00 00 00 3d 0a ffffffd7 ffffffa3 70 3d 0e 40   ....m...=...p=./
+      0030  52 ffffffb8 1e ffffff85 ffffffeb 51 0e 40 00 00 00 00 4b 4b 4b 4b   R....Q.@....KKK∏/
+** 43/289. rekord:
+  00000157f000d230, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  54 6f 72 6f 6b 20 4c 75 6b 61 63 73 00 4b 4b 4b   Torok Lukacs.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc4 0e 00 00 76 00 00 00 7b 14 ffffffae 47 ffffffe1 7a 02 40   ....v...{..G.z./
+      0030  1f ffffff85 ffffffeb 51 ffffffb8 1e 10 40 00 00 00 00 4b 4b 4b 4b   ...Q...@....KKKÖ/
+** 44/289. rekord:
+  00000157f0016240, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 75 64 61 69 20 42 6f 67 6c 61 72 6b 61 00 4b   Budai Boglarka.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa4 0f 00 00 6d 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 10 40   .../
+      0030  33 33 33 33 33 33 0d 40 00 00 00 00 4b 4b 4b 4b   333333.@....KKKK
+** 45/289. rekord:
+  00000157f0011250, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 65 67 68 20 52 6f 62 65 72 74 00 4b 4b 4b 4b   Vegh Robert.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  3c 0f 00 00 6d 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 0f 40   <...m..../
+      0030  29 5c ffffff8f ffffffc2 fffffff5 28 11 40 00 00 00 00 4b 4b 4b 4b   )\...(.@....KKK\]
+** 46/289. rekord:
+  00000157f001a260, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 73 20 45 72 6e 6f 00 4b 4b 4b 4b 4b 4b   Kiss Erno.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  28 10 00 00 75 00 00 00 29 5c ffffff8f ffffffc2 fffffff5 28 1a 40   (...u...)\...(./
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 09 40 00 00 00 00 4b 4b 4b 4b   ..Q....@.Î/
+** 47/289. rekord:
+  00000157f0015270, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 6c 61 68 20 44 61 76 69 64 00 4b 4b 4b 4b 4b   Olah David.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  74 0f 00 00 6d 00 00 00 66 66 66 66 66 66 1e 40   t...m...ffffff.@
+      0030  3d 0a ffffffd7 ffffffa3 70 3d 0c 40 00 00 00 00 4b 4b 4b 4b   =...p=.@....KKKK
+** 48/289. rekord:
+  00000157f018a270, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 69 6e 63 7a 65 20 49 6c 64 69 6b 6f 00 4b 4b   Vincze Ildiko.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc4 0d 00 00 6d 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 0f 40   .../
+      0030  ffffffae 47 ffffffe1 7a 14 ffffffae 11 40 0c 00 00 00 4b 4b 4b 4b   .G.z...@....KKKGH
+** 49/289. rekord:
+  00000157f001e280, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 65 73 7a 61 72 6f 73 20 48 65 6c 67 61 00 4b   Meszaros Helga.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb4 10 00 00 6d 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 15 40   .../
+      0030  66 66 66 66 66 66 08 40 00 00 00 00 4b 4b 4b 4b   ffffff.@....KKKK
+** 50/289. rekord:
+  00000157f0017280, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 61 67 79 20 4c 65 69 6c 61 00 4b 4b 4b 4b 4b   Nagy Leila.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb8 0f 00 00 76 00 00 00 ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc 4c 20 40∏
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 12 40 00 00 00 00 4b 4b 4b 4b   ..(\...@.ı/
+** 51/289. rekord:
+  00000157f018b280, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 6f 76 61 6b 20 5a 61 6c 61 6e 00 4b 4b 4b 4b   Novak Zalan.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffff0 0d 00 00 6d 00 00 00 66 66 66 66 66 66 16 40   ....m...ffffff.@
+      0030  ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 0c 40 00 00 00 00 4b 4b 4b 4b   ....Q..@./
+** 52/289. rekord:
+  00000157f00242a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 73 20 47 79 6f 6e 67 79 76 65 72 00 4b   Kiss Gyongyver.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  00 11 00 00 6d 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 0d 40   ....m......p=..@
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 04 40 00 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 53/289. rekord:
+  00000157f001b2a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 6f 67 6e 61 72 20 46 61 72 6b 61 73 00 4b 4b   Bognar Farkas.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  04 10 00 00 75 00 00 00 3d 0a ffffffd7 ffffffa3 70 3d 15 40   ....u...=...p=.@
+      0030  ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 0e 40 00 00 00 00 4b 4b 4b 4b   ...(\..@.¬/
+** 54/289. rekord:
+  00000157f001f2c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 61 70 70 20 5a 61 6b 61 72 69 61 73 00 4b 4b   Papp Zakarias.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  38 10 00 00 6d 00 00 00 48 ffffffe1 7a 14 ffffffae 47 15 40   8...m...H.z..G.@
+      0030  0a ffffffd7 ffffffa3 70 3d 0a 13 40 01 00 00 00 4b 4b 4b 4b   ...p=..@....KKKK
+** 55/289. rekord:
+  00000157f018c2c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 61 67 79 61 72 20 47 79 6f 72 67 79 00 4b 4b   Magyar Gyorgy.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffdc 0d 00 00 6d 00 00 00 14 ffffffae 47 ffffffe1 7a 14 1c 40   ....m.....G.z../
+      0030  7b 14 ffffffae 47 ffffffe1 7a 11 40 00 00 00 00 4b 4b 4b 4b   {..G.z.@....KKKK
+** 56/289. rekord:
+  00000157f002e2d0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 65 68 65 72 20 45 72 68 61 72 64 00 4b 4b 4b   Feher Erhard.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  74 11 00 00 76 00 00 00 71 3d 0a ffffffd7 ffffffa3 70 10 40   t...v...q=...p.@
+      0030  33 33 33 33 33 33 09 40 00 00 00 00 4b 4b 4b 4b   333333.@....KKKK
+** 57/289. rekord:
+  00000157f00252e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  47 75 6c 79 61 73 20 41 72 70 61 64 00 4b 4b 4b   Gulyas Arpad.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffff0 10 00 00 6d 00 00 00 7b 14 ffffffae 47 ffffffe1 7a 13 40   ....m...{..G.z./
+      0030  ffffffe1 7a 14 ffffffae 47 ffffffe1 0a 40 00 00 00 00 4b 4b 4b 4b   .z..G..@....KKKz{
+** 58/289. rekord:
+  00000157f0020300, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  47 61 6c 20 4b 72 69 73 7a 74 69 6e 61 00 4b 4b   Gal Krisztina.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  50 10 00 00 76 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 01 40   P...v......p=..@
+      0030  14 ffffffae 47 ffffffe1 7a 14 0e 40 00 00 00 00 4b 4b 4b 4b   ..G.z..@....KKKK
+** 59/289. rekord:
+  00000157f002f310, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 61 6c 61 73 7a 20 5a 73 6f 66 69 61 00 4b 4b   Halasz Zsofia.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb4 11 00 00 6d 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 03 40   .../
+      0030  48 ffffffe1 7a 14 ffffffae 47 0d 40 00 00 00 00 4b 4b 4b 4b   H.z..G.@....KKKK
+** 60/289. rekord:
+  00000157f0026320, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 61 6a 6f 72 20 54 69 62 6f 72 63 00 4b 4b 4b   Major Tiborc.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffd0 10 00 00 6d 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 03 40   .../
+      0030  52 ffffffb8 1e ffffff85 ffffffeb 51 02 40 00 00 00 00 4b 4b 4b 4b   R....Q.@....KKK∏/
+** 61/289. rekord:
+  00000157f0003320, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:91, malloc(sizeof(szoba_struct))
+      0000  4a 75 68 61 73 7a 20 54 69 62 6f 72 63 00 4b 4b   Juhasz Tiborc.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  6c 0d 00 00 75 00 00 00 48 ffffffe1 7a 14 ffffffae 47 1a 40   l...u...H.z..G.@
+      0030  5c ffffff8f ffffffc2 fffffff5 28 5c 05 40 00 00 00 00 4b 4b 4b 4b   \...(\.@....KKKè/
+** 62/289. rekord:
+  00000157f0021340, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 6c 61 68 20 52 6f 6d 65 6f 00 4b 4b 4b 4b 4b   Olah Romeo.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa4 10 00 00 76 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 21 40   ....v...\/
+      0030  ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 09 40 0e 00 00 00 4b 4b 4b 4b   .Q.....@.QR
+** 63/289. rekord:
+  00000157f0030350, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 20 4b 72 69 73 7a 74 69 6e 61 00 4b 4b   Kis Krisztina.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc4 11 00 00 6d 00 00 00 14 ffffffae 47 ffffffe1 7a 14 1b 40   ....m.....G.z../
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 0f 40 00 00 00 00 4b 4b 4b 4b   ..(\...@.ı/
+** 64/289. rekord:
+  00000157f0187350, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 61 74 61 6b 69 20 4a 61 6e 6f 73 00 4b 4b 4b   Pataki Janos.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff84 0d 00 00 6d 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 19 40   .../
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 01 40 00 00 00 00 4b 4b 4b 4b   ..(\...@.ı/
+** 65/289. rekord:
+  00000157f0027360, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 61 67 79 20 41 6d 61 6c 69 61 00 4b 4b 4b 4b   Nagy Amalia.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  4c 11 00 00 6d 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 20 40   L...m..../
+      0030  00 00 00 00 00 00 02 40 0b 00 00 00 4b 4b 4b 4b   .......@....KKKK
+** 66/289. rekord:
+  00000157f0006360, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 6c 61 68 20 42 6f 72 62 61 6c 61 00 4b 4b 4b   Olah Borbala.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  4c 0e 00 00 6d 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 03 40   L...m...\...(\./
+      0030  00 00 00 00 00 00 10 40 00 00 00 00 4b 4b 4b 4b   .......@....KKKK
+** 67/289. rekord:
+  00000157f000a380, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 69 6e 74 65 72 20 48 61 6a 6e 61 00 4b 4b 4b   Pinter Hajna.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa4 0e 00 00 76 00 00 00 48 ffffffe1 7a 14 ffffffae 47 05 40   ....v...H.z..G./
+      0030  5c ffffff8f ffffffc2 fffffff5 28 5c 05 40 0d 00 00 00 4b 4b 4b 4b   \...(\.@....KKKè/
+** 68/289. rekord:
+  00000157f0031390, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 61 67 79 20 54 75 6e 64 65 00 4b 4b 4b 4b 4b   Nagy Tunde.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa0 11 00 00 6d 00 00 00 00 00 00 00 00 00 10 40   ....m..........@
+      0030  3d 0a ffffffd7 ffffffa3 70 3d 08 40 00 00 00 00 4b 4b 4b 4b   =...p=.@....KKKK
+** 69/289. rekord:
+  00000157f000c390, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 61 6a 64 75 20 53 7a 61 62 69 6e 61 00 4b 4b   Hajdu Szabina.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe4 0e 00 00 6d 00 00 00 33 33 33 33 33 33 18 40   ....m...333333.@
+      0030  ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 0d 40 00 00 00 00 4b 4b 4b 4bö
+** 70/289. rekord:
+  00000157f00073a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 62 6f 20 47 79 6f 6e 67 79 69 00 4b 4b   Szabo Gyongyi.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  60 0e 00 00 6d 00 00 00 29 5c ffffff8f ffffffc2 fffffff5 28 0c 40   `...m...)\...(./
+      0030  ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 13 40 00 00 00 00 4b 4b 4b 4b   ...(\..@.¬/
+** 71/289. rekord:
+  00000157f00103b0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 61 6a 6f 72 20 53 7a 61 6e 69 73 7a 6c 6f 00   Major Szaniszlo.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  0c 0f 00 00 76 00 00 00 0a ffffffd7 ffffffa3 70 3d ffffff8a 21 40   ....v......p=.!/
+      0030  ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 01 40 00 00 00 00 4b 4b 4b 4b   .Q.....@.QR
+** 72/289. rekord:
+  00000157f000b3c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  47 61 6c 20 4c 69 6c 69 61 6e 61 00 4b 4b 4b 4b   Gal Liliana.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  70 0e 00 00 6d 00 00 00 29 5c ffffff8f ffffffc2 fffffff5 28 11 40   p...m...)\...(./
+      0030  66 66 66 66 66 66 0a 40 00 00 00 00 4b 4b 4b 4b   ffffff.@....KKKK
+** 73/289. rekord:
+  00000157f00143d0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4a 75 68 61 73 7a 20 54 69 6d 6f 74 00 4b 4b 4b   Juhasz Timot.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff8c 0f 00 00 6d 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 09 40   ....m......p=../
+      0030  ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 0a 40 00 00 00 00 4b 4b 4b 4b   ...(\..@.¬/
+** 74/289. rekord:
+  00000157f000d3d0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 61 73 7a 74 6f 72 20 4a 75 6c 69 61 6e 6e 61   Pasztor Julianna
+      0010  00 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   .KKKKKKKKKKKKKKK
+  ....m..........@
+      0030  fffffff6 28 5c ffffff8f ffffffc2 fffffff5 00 40 00 00 00 00 4b 4b 4b 4b   .(\....@.()
+** 75/289. rekord:
+  00000157f01883d0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 6f 72 76 61 74 68 20 4c 65 76 65 6e 74 65 00   Horvath Levente.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff9c 0d 00 00 76 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 0b 40   .../
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 07 40 00 00 00 00 4b 4b 4b 4b   ..(\...@.ı/
+** 76/289. rekord:
+  00000157f00163e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 65 6d 65 74 20 46 6c 6f 72 69 61 6e 00 4b 4b   Nemet Florian.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffac 0f 00 00 76 00 00 00 ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 10 40   .../
+      0030  0a ffffffd7 ffffffa3 70 3d 0a 07 40 00 00 00 00 4b 4b 4b 4b   ...p=..@....KKKK
+** 77/289. rekord:
+  00000157f00113f0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 76 61 63 68 20 5a 65 6e 6f 00 4b 4b 4b 4b   Kovach Zeno.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  08 0f 00 00 76 00 00 00 ffffffd7 ffffffa3 70 3d 0a ffffffd7 0f 40   ....v.....p=.../
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 12 40 00 00 00 00 4b 4b 4b 4b   ..(\...@.ı/
+** 78/289. rekord:
+  00000157f001a400, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 75 63 73 20 48 65 6e 72 69 6b 00 4b 4b 4b   Szucs Henrik.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe8 0f 00 00 76 00 00 00 71 3d 0a ffffffd7 ffffffa3 70 07 40   ....v...q=...p./
+      0030  3d 0a ffffffd7 ffffffa3 70 3d fffffffe 3f 05 00 00 00 4b 4b 4b 4b   =...p=.?....KKK
+/
+** 79/289. rekord:
+  00000157f0015410, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 69 6e 74 65 72 20 5a 65 6e 6f 00 4b 4b 4b 4b   Pinter Zeno.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  64 0f 00 00 6d 00 00 00 ffffffa4 70 3d 0a ffffffd7 ffffffa3 1c 40   d...m....p=..../
+      0030  1f ffffff85 ffffffeb 51 ffffffb8 1e 01 40 00 00 00 00 4b 4b 4b 4b   ...Q...@....KKKÖ/
+** 80/289. rekord:
+  00000157f018a410, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4a 75 68 61 73 7a 20 4c 65 6f 00 4b 4b 4b 4b 4b   Juhasz Leo.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc0 0d 00 00 76 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 1f 40   .../
+      0030  fffffff6 28 5c ffffff8f ffffffc2 fffffff5 11 40 09 00 00 00 4b 4b 4b 4b   .(\....@.()
+** 81/289. rekord:
+  00000157f001e420, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 69 6e 74 65 72 20 4c 69 76 69 61 00 4b 4b 4b   Pinter Livia.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  54 10 00 00 76 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 17 40   T...v..../
+      0030  0a ffffffd7 ffffffa3 70 3d 0a fffffffb 3f 00 00 00 00 4b 4b 4b 4b   ...p=..?....KKK◊/
+** 82/289. rekord:
+  00000157f0017420, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 76 61 74 73 20 48 75 6e 6f 72 00 4b 4b 4b   Kovats Hunor.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa8 0f 00 00 6d 00 00 00 66 66 66 66 66 66 18 40   ....m...ffffff.@
+      0030  14 ffffffae 47 ffffffe1 7a 14 02 40 00 00 00 00 4b 4b 4b 4b   ..G.z..@....KKKK
+** 83/289. rekord:
+  00000157f018b420, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 65 6d 65 74 68 20 4f 6c 67 61 00 4b 4b 4b 4b   Nemeth Olga.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  00 0e 00 00 6d 00 00 00 ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 21 40
+      0030  3d 0a ffffffd7 ffffffa3 70 3d 10 40 00 00 00 00 4b 4b 4b 4b   =...p=.@....KKKK
+** 84/289. rekord:
+  00000157f0024440, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  47 61 6c 20 44 61 76 69 64 00 4b 4b 4b 4b 4b 4b   Gal David.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffff8 10 00 00 6d 00 00 00 48 ffffffe1 7a 14 ffffffae 47 0b 40   ....m...H.z..G./
+      0030  48 ffffffe1 7a 14 ffffffae 47 03 40 00 00 00 00 4b 4b 4b 4b   H.z..G.@....KKKK
+** 85/289. rekord:
+  00000157f001b440, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 6c 6f 67 68 20 4a 75 6c 69 61 6e 6e 61 00   Balogh Julianna.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  0c 10 00 00 6d 00 00 00 29 5c ffffff8f ffffffc2 fffffff5 28 0a 40   ....m...)\...(./
+      0030  66 66 66 66 66 66 00 40 10 00 00 00 4b 4b 4b 4b   ffffff.@....KKKK
+** 86/289. rekord:
+  00000157f001f460, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 76 61 63 68 20 41 6c 69 7a 00 4b 4b 4b 4b   Kovach Aliz.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  5c 10 00 00 76 00 00 00 14 ffffffae 47 ffffffe1 7a 14 16 40   \...v.....G.z..@
+      0030  3d 0a ffffffd7 ffffffa3 70 3d fffffff6 3f 0b 00 00 00 4b 4b 4b 4b   =...p=.?....KKK
+/
+** 87/289. rekord:
+  00000157f018c460, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 75 64 61 69 20 4c 65 76 65 6e 74 65 00 4b 4b   Budai Levente.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  10 0e 00 00 76 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 04 40   ....v..../
+      0030  ffffffe1 7a 14 ffffffae 47 ffffffe1 0e 40 00 00 00 00 4b 4b 4b 4b   .z..G..@....KKKz{
+** 88/289. rekord:
+  00000157f002e470, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 61 72 6b 61 73 20 47 79 6f 72 67 79 69 00 4b   Farkas Gyorgyi.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff90 11 00 00 6d 00 00 00 1f ffffff85 ffffffeb 51 ffffffb8 1e 11 40   ....m..../
+      0030  ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 0a 40 00 00 00 00 4b 4b 4b 4bÕ
+** 89/289. rekord:
+  00000157f0025480, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 76 61 63 73 20 47 65 72 74 72 75 64 00 4b   Kovacs Gertrud.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffd4 10 00 00 76 00 00 00 52 ffffffb8 1e ffffff85 ffffffeb 51 1b 40   ....v...R/
+      0030  48 ffffffe1 7a 14 ffffffae 47 0f 40 00 00 00 00 4b 4b 4b 4b   H.z..G.@....KKKK
+** 90/289. rekord:
+  00000157f00204a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 6f 72 76 61 74 20 45 67 6f 6e 00 4b 4b 4b 4b   Horvat Egon.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc4 10 00 00 6d 00 00 00 52 ffffffb8 1e ffffff85 ffffffeb 51 1c 40   ....m...R/
+      0030  ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 13 40 00 00 00 00 4b 4b 4b 4b   ...(\..@.¬/
+** 91/289. rekord:
+  00000157f00264c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 65 6d 65 73 20 44 6f 6d 6f 74 6f 72 00 4b 4b   Nemes Domotor.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe0 10 00 00 6d 00 00 00 48 ffffffe1 7a 14 ffffffae 47 18 40   ....m...H.z..G./
+      0030  7b 14 ffffffae 47 ffffffe1 7a 04 40 0b 00 00 00 4b 4b 4b 4b   {..G.z.@....KKKK
+** 92/289. rekord:
+  00000157f00214e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4c 61 6b 61 74 6f 73 20 42 65 6e 6a 61 6d 69 6e   Lakatos Benjamin
+      0010  00 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   .KKKKKKKKKKKKKKK
+      0020  ffffff98 10 00 00 6d 00 00 00 14 ffffffae 47 ffffffe1 7a 14 13 40   ....m.....G.z../
+      0030  ffffffd7 ffffffa3 70 3d 0a ffffffd7 07 40 01 00 00 00 4b 4b 4b 4b   ..p=...@....KKK£/
+** 93/289. rekord:
+  00000157f00304f0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 61 72 67 61 20 44 6f 6d 6f 74 6f 72 00 4b 4b   Varga Domotor.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb8 11 00 00 76 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 11 40   .../
+      0030  ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 09 40 12 00 00 00 4b 4b 4b 4b   .Q.....@.QR
+** 94/289. rekord:
+  00000157f0027500, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 6f 72 76 61 74 20 42 6c 61 6e 6b 61 00 4b 4b   Horvat Blanka.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  50 11 00 00 6d 00 00 00 ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 01 40P
+      0030  0a ffffffd7 ffffffa3 70 3d 0a 07 40 00 00 00 00 4b 4b 4b 4b   ...p=..@....KKKK
+** 95/289. rekord:
+  00000157f0006500, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 61 6a 6f 72 20 41 6a 74 6f 6e 79 00 4b 4b 4b   Major Ajtony.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  28 0e 00 00 76 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 11 40   (...v..../
+      0030  7b 14 ffffffae 47 ffffffe1 7a 0a 40 00 00 00 00 4b 4b 4b 4b   {..G.z.@....KKKK
+** 96/289. rekord:
+  00000157f0181500, 30 bajt, kanari: ok
+  main.c:218, malloc((NEVMAX * sizeof(char)))
+      0000  74 65 73 7a 74 61 64 61 74 32 2e 63 73 76 00 4b   tesztadat2.csv.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b         KKKKKKKKKKKKKK  
+** 97/289. rekord:
+  00000157f000a520, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 65 73 7a 61 72 6f 73 20 44 65 6e 65 73 00 4b   Meszaros Denes.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb0 0e 00 00 76 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 0b 40   ....v......p=../
+      0030  66 66 66 66 66 66 04 40 00 00 00 00 4b 4b 4b 4b   ffffff.@....KKKK
+** 98/289. rekord:
+  00000157f0031530, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 6c 6f 67 68 20 43 65 63 69 6c 69 61 00 4b   Balogh Cecilia.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffd4 11 00 00 6d 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 1b 40   ....m...\/
+      0030  3d 0a ffffffd7 ffffffa3 70 3d 0e 40 12 00 00 00 4b 4b 4b 4b   =...p=.@....KKKK
+** 99/289. rekord:
+  00000157f000c530, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  54 6f 74 20 48 6f 72 74 65 6e 7a 69 61 00 4b 4b   Tot Hortenzia.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe8 0e 00 00 76 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f 42 21 40   ....v..../
+      0030  14 ffffffae 47 ffffffe1 7a 14 04 40 00 00 00 00 4b 4b 4b 4b   ..G.z..@....KKKK
+** 100/289. rekord:
+  00000157f0007540, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 69 70 6f 73 20 50 61 6c 00 4b 4b 4b 4b 4b 4b   Sipos Pal.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  68 0e 00 00 6d 00 00 00 ffffffd7 ffffffa3 70 3d 0a ffffffd7 07 40   h...m.....p=.../
+      0030  ffffffae 47 ffffffe1 7a 14 ffffffae 03 40 00 00 00 00 4b 4b 4b 4b   .G.z...@....KKKGH
+** 101/289. rekord:
+  00000157f0010550, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 65 67 65 64 75 73 20 4d 61 74 79 61 73 00 4b   Hegedus Matyas.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  14 0f 00 00 6d 00 00 00 ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 12 40   ....m..../
+      0030  52 ffffffb8 1e ffffff85 ffffffeb 51 fffffffc 3f 02 00 00 00 4b 4b 4b 4b   R....Q.?.∏/
+** 102/289. rekord:
+  00000157f000b560, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  54 61 6b 61 63 73 20 41 6c 69 7a 00 4b 4b 4b 4b   Takacs Aliz.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  74 0e 00 00 6d 00 00 00 29 5c ffffff8f ffffffc2 fffffff5 ffffffa8 20 40   t...m...)/
+      0030  48 ffffffe1 7a 14 ffffffae 47 12 40 00 00 00 00 4b 4b 4b 4b   H.z..G.@....KKKK
+** 103/289. rekord:
+  00000157f0014570, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4c 61 6b 61 74 6f 73 20 42 65 61 74 72 69 78 00   Lakatos Beatrix.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  58 0f 00 00 6d 00 00 00 33 33 33 33 33 33 15 40   X...m...333333.@
+      0030  66 66 66 66 66 66 fffffff6 3f 00 00 00 00 4b 4b 4b 4b   ffffff.?....KKKK
+** 104/289. rekord:
+  00000157f000d570, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  44 65 61 6b 20 4d 65 6c 69 6e 64 61 00 4b 4b 4b   Deak Melinda.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc0 0e 00 00 6d 00 00 00 71 3d 0a ffffffd7 ffffffa3 70 18 40   ....m...q=...p./
+      0030  52 ffffffb8 1e ffffff85 ffffffeb 51 0e 40 00 00 00 00 4b 4b 4b 4b   R....Q.@....KKK∏/
+** 105/289. rekord:
+  00000157f0016580, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 61 72 67 61 20 45 6d 69 6c 00 4b 4b 4b 4b 4b   Varga Emil.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc0 0f 00 00 6d 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 1a 40   ....m......p=../
+      0030  ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 06 40 00 00 00 00 4b 4b 4b 4bÕ
+** 106/289. rekord:
+  00000157f0011590, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 6f 72 6f 73 20 44 6f 6d 6f 74 6f 72 00 4b 4b   Boros Domotor.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  04 0f 00 00 76 00 00 00 ffffffd7 ffffffa3 70 3d 0a ffffffd7 13 40   ....v.....p=.../
+      0030  33 33 33 33 33 33 11 40 00 00 00 00 4b 4b 4b 4b   333333.@....KKKK
+** 107/289. rekord:
+  00000157f001a5a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 6c 61 68 20 46 65 72 65 6e 63 00 4b 4b 4b 4b   Olah Ferenc.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  1c 10 00 00 76 00 00 00 0a ffffffd7 ffffffa3 70 3d ffffff8a 20 40   ....v......p=. /
+      0030  ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 00 40 00 00 00 00 4b 4b 4b 4b   ....Q..@./
+** 108/289. rekord:
+  00000157f00155b0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 65 7a 6f 20 46 61 62 69 61 6e 00 4b 4b 4b 4b   Mezo Fabian.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  6c 0f 00 00 6d 00 00 00 ffffffa4 70 3d 0a ffffffd7 ffffffa3 1b 40   l...m....p=..../
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 0b 40 00 00 00 00 4b 4b 4b 4b   ..Q....@.Î/
+** 109/289. rekord:
+  00000157f018a5b0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 61 72 67 61 20 49 73 74 76 61 6e 00 4b 4b 4b   Varga Istvan.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb8 0d 00 00 76 00 00 00 29 5c ffffff8f ffffffc2 fffffff5 28 08 40   ....v...)/
+      0030  ffffffae 47 ffffffe1 7a 14 ffffffae 03 40 00 00 00 00 4b 4b 4b 4b   .G.z...@....KKKGH
+** 110/289. rekord:
+  00000157f001e5c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 61 72 6b 61 73 20 4c 69 6c 6c 61 00 4b 4b 4b   Farkas Lilla.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff84 10 00 00 76 00 00 00 66 66 66 66 66 66 00 40   ....v...ffffff.@
+      0030  0a ffffffd7 ffffffa3 70 3d 0a 09 40 00 00 00 00 4b 4b 4b 4b   ...p=..@....KKKK
+** 111/289. rekord:
+  00000157f00175c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 61 6a 6f 72 20 41 67 6e 65 73 00 4b 4b 4b 4b   Major Agnes.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc4 0f 00 00 76 00 00 00 48 ffffffe1 7a 14 ffffffae 47 1a 40   ....v...H.z..G./
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 02 40 00 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 112/289. rekord:
+  00000157f018b5c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 69 6e 63 7a 65 20 49 72 69 73 7a 00 4b 4b 4b   Vincze Irisz.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffff4 0d 00 00 6d 00 00 00 1f ffffff85 ffffffeb 51 ffffffb8 1e 13 40   ....m..../
+      0030  1f ffffff85 ffffffeb 51 ffffffb8 1e 0b 40 00 00 00 00 4b 4b 4b 4b   ...Q...@....KKKÖ/
+** 113/289. rekord:
+  00000157f00245e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 6c 6f 67 68 20 49 6c 6f 6e 61 00 4b 4b 4b   Balogh Ilona.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe8 10 00 00 6d 00 00 00 14 ffffffae 47 ffffffe1 7a 14 16 40   ....m.....G.z../
+      0030  fffffff6 28 5c ffffff8f ffffffc2 fffffff5 08 40 00 00 00 00 4b 4b 4b 4b   .(\....@.()
+** 114/289. rekord:
+  00000157f001b5e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 61 70 70 20 42 65 6e 63 65 00 4b 4b 4b 4b 4b   Papp Bence.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  10 10 00 00 6d 00 00 00 ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 14 40
+      0030  29 5c ffffff8f ffffffc2 fffffff5 28 0a 40 00 00 00 00 4b 4b 4b 4b   )\...(.@....KKK\]
+** 115/289. rekord:
+  00000157f00035e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 61 6a 6f 72 20 46 65 72 65 6e 63 00 4b 4b 4b   Major Ferenc.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  70 0d 00 00 6d 00 00 00 29 5c ffffff8f ffffffc2 fffffff5 28 19 40   p...m...)\...(./
+      0030  fffffff6 28 5c ffffff8f ffffffc2 fffffff5 fffffff4 3f 00 00 00 00 4b 4b 4b 4b   .(\()
+** 116/289. rekord:
+  00000157f001f600, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 76 61 63 68 20 41 6e 64 6f 72 00 4b 4b 4b   Kovach Andor.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff88 10 00 00 6d 00 00 00 ffffffa4 70 3d 0a ffffffd7 ffffffa3 17 40   ....m..../
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 fffffff8 3f 00 00 00 00 4b 4b 4b 4b   .p=....?.pq
+** 117/289. rekord:
+  00000157f018c600, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  44 65 61 6b 20 4e 6f 65 6d 69 00 4b 4b 4b 4b 4b   Deak Noemi.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  04 0e 00 00 6d 00 00 00 ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 09 40   ....m..../
+      0030  1f ffffff85 ffffffeb 51 ffffffb8 1e 0f 40 06 00 00 00 4b 4b 4b 4b   ...Q...@....KKKÖ/
+** 118/289. rekord:
+  00000157f002e610, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 62 6f 20 41 72 6d 69 6e 00 4b 4b 4b 4b   Szabo Armin.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  6c 11 00 00 6d 00 00 00 29 5c ffffff8f ffffffc2 fffffff5 28 21 40   l...m...)\...(!/
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 00 40 00 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 119/289. rekord:
+  00000157f0187610, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  47 75 6c 79 61 73 20 41 67 6e 65 73 00 4b 4b 4b   Gulyas Agnes.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff88 0d 00 00 6d 00 00 00 ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 1b 40   .../
+      0030  14 ffffffae 47 ffffffe1 7a 14 10 40 00 00 00 00 4b 4b 4b 4b   ..G.z..@....KKKK
+** 120/289. rekord:
+  00000157f0025620, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  54 61 6b 61 63 73 20 54 69 6d 6f 74 00 4b 4b 4b   Takacs Timot.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffd8 10 00 00 6d 00 00 00 ffffffae 47 ffffffe1 7a 14 ffffffae 16 40   ....m..../
+      0030  ffffffe1 7a 14 ffffffae 47 ffffffe1 0a 40 00 00 00 00 4b 4b 4b 4b   .z..G..@....KKKz{
+** 121/289. rekord:
+  00000157f0020640, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 69 70 6f 73 20 49 73 74 76 61 6e 00 4b 4b 4b   Sipos Istvan.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  40 10 00 00 6d 00 00 00 ffffffd7 ffffffa3 70 3d 0a ffffffd7 13 40   @...m.....p=.../
+      0030  5c ffffff8f ffffffc2 fffffff5 28 5c ffffffff 3f 00 00 00 00 4b 4b 4b 4b   \...(\.?.è/
+** 122/289. rekord:
+  00000157f002f650, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 69 6e 74 65 72 20 4f 6c 67 61 00 4b 4b 4b 4b   Pinter Olga.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  7c 11 00 00 76 00 00 00 ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 04 40   |...v..../
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 10 40 00 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 123/289. rekord:
+  00000157f0026660, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 6c 61 68 20 4c 65 69 6c 61 00 4b 4b 4b 4b 4b   Olah Leila.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  04 11 00 00 6d 00 00 00 1f ffffff85 ffffffeb 51 ffffffb8 1e 05 40   ....m......Q.../
+      0030  29 5c ffffff8f ffffffc2 fffffff5 28 06 40 00 00 00 00 4b 4b 4b 4b   )\...(.@....KKK\]
+** 124/289. rekord:
+  00000157f0021680, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 6f 72 76 61 74 20 54 69 76 61 64 61 72 00 4b   Horvat Tivadar.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  48 10 00 00 76 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 19 40   H...v......p=..@
+      0030  ffffffec 51 ffffffb8 1e ffffff85 ffffffeb fffffffd 3f 00 00 00 00 4b 4b 4b 4b   .Q.QR
+** 125/289. rekord:
+  00000157f0030690, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 61 74 6f 6e 61 20 50 61 73 7a 6b 61 6c 00 4b   Katona Paszkal.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffcc 11 00 00 6d 00 00 00 ffffffa4 70 3d 0a ffffffd7 ffffffa3 17 40   ....m..../
+      0030  ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 04 40 00 00 00 00 4b 4b 4b 4b   ...(\..@.¬/
+** 126/289. rekord:
+  00000157f0188690, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 61 72 6b 61 73 20 47 65 72 67 6f 00 4b 4b 4b   Farkas Gergo.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa0 0d 00 00 6d 00 00 00 14 ffffffae 47 ffffffe1 7a 14 1c 40   ....m.....G.z../
+      0030  5c ffffff8f ffffffc2 fffffff5 28 5c 05 40 00 00 00 00 4b 4b 4b 4b   \...(\.@....KKKè/
+** 127/289. rekord:
+  00000157f00276a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 6c 6f 67 20 54 61 73 00 4b 4b 4b 4b 4b 4b   Balog Tas.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  58 11 00 00 6d 00 00 00 48 ffffffe1 7a 14 ffffffae 47 1e 40   X...m...H.z..G.@
+      0030  ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 fffffff2 3f 00 00 00 00 4b 4b 4b 4b   .../
+** 128/289. rekord:
+  00000157f00066a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 65 67 65 64 75 73 20 45 64 69 74 68 00 4b 4b   Hegedus Edith.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  48 0e 00 00 76 00 00 00 14 ffffffae 47 ffffffe1 7a 14 1c 40   H...v.....G.z..@
+  .......?....KKKK
+** 129/289. rekord:
+  00000157f000a6c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 65 6d 65 74 20 45 6c 6c 61 6b 00 4b 4b 4b 4b   Nemet Ellak.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb4 0e 00 00 6d 00 00 00 ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 05 40   .../
+      0030  fffffff6 28 5c ffffff8f ffffffc2 fffffff5 00 40 00 00 00 00 4b 4b 4b 4b   .(\....@.()
+** 130/289. rekord:
+  00000157f00316d0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 75 64 61 69 20 4a 75 64 69 74 00 4b 4b 4b 4b   Budai Judit.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb0 11 00 00 6d 00 00 00 ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 00 40   .../
+      0030  71 3d 0a ffffffd7 ffffffa3 70 11 40 00 00 00 00 4b 4b 4b 4b   q=...p.@....KKKK
+** 131/289. rekord:
+  00000157f000c6d0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  47 75 6c 79 61 73 20 41 64 72 69 65 6e 6e 00 4b   Gulyas Adrienn.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffffc 0e 00 00 6d 00 00 00 29 5c ffffff8f ffffffc2 fffffff5 28 02 40   ....m...)/
+      0030  0a ffffffd7 ffffffa3 70 3d 0a fffffff7 3f 00 00 00 00 4b 4b 4b 4b   ...p=..?....KKK◊/
+** 132/289. rekord:
+  00000157f00076e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 6c 61 7a 73 20 41 67 6f 73 74 6f 6e 00 4b   Balazs Agoston.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  5c 0e 00 00 6d 00 00 00 3d 0a ffffffd7 ffffffa3 70 3d 0c 40   \...m...=...p=.@
+      0030  ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 0f 40 00 00 00 00 4b 4b 4b 4bö
+** 133/289. rekord:
+  00000157f00106f0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 6f 72 76 61 74 68 20 48 65 6c 6c 61 00 4b 4b   Horvath Hella.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  10 0f 00 00 6d 00 00 00 00 00 00 00 00 00 1d 40   ....m..........@
+      0030  66 66 66 66 66 66 0c 40 00 00 00 00 4b 4b 4b 4b   ffffff.@....KKKK
+** 134/289. rekord:
+  00000157f000b700, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 65 6b 65 74 65 20 4b 69 74 74 69 00 4b 4b 4b   Fekete Kitti.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff8c 0e 00 00 6d 00 00 00 14 ffffffae 47 ffffffe1 7a 14 16 40   ....m.....G.z../
+      0030  14 ffffffae 47 ffffffe1 7a 14 fffffffa 3f 00 00 00 00 4b 4b 4b 4b   ..G.z..?....KKKÆ/
+** 135/289. rekord:
+  00000157f0014710, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 72 6e 61 20 41 6c 69 64 61 00 4b 4b 4b 4b   Barna Alida.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  70 0f 00 00 6d 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 20 40   p...m......p=. @
+      0030  66 66 66 66 66 66 02 40 00 00 00 00 4b 4b 4b 4b   ffffff.@....KKKK
+** 136/289. rekord:
+  00000157f000d710, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 62 6f 20 4c 65 76 65 6e 74 65 00 4b 4b   Szabo Levente.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffdc 0e 00 00 6d 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 20 40   ....m...\/
+      0030  ffffffd7 ffffffa3 70 3d 0a ffffffd7 0d 40 0c 00 00 00 4b 4b 4b 4b   ..p=...@....KKK£/
+** 137/289. rekord:
+  00000157f0016720, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 20 46 72 75 7a 73 69 6e 61 00 4b 4b 4b   Kis Fruzsina.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffdc 0f 00 00 6d 00 00 00 52 ffffffb8 1e ffffff85 ffffffeb 51 1b 40   ....m...R/
+      0030  ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 00 40 00 00 00 00 4b 4b 4b 4b   ....Q..@./
+** 138/289. rekord:
+  00000157f0011730, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 6f 6c 6e 61 72 20 5a 61 6c 61 6e 00 4b 4b 4b   Molnar Zalan.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  2c 0f 00 00 76 00 00 00 71 3d 0a ffffffd7 ffffffa3 70 05 40   ,...v...q=...p.@
+      0030  14 ffffffae 47 ffffffe1 7a 14 02 40 0d 00 00 00 4b 4b 4b 4b   ..G.z..@....KKKK
+** 139/289. rekord:
+  00000157f001a740, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  45 72 6f 73 20 53 7a 69 6c 61 72 64 00 4b 4b 4b   Eros Szilard.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffffc 0f 00 00 76 00 00 00 29 5c ffffff8f ffffffc2 fffffff5 28 18 40   ....v...)/
+      0030  ffffffd7 ffffffa3 70 3d 0a ffffffd7 0f 40 0d 00 00 00 4b 4b 4b 4b   ..p=...@....KKK£/
+** 140/289. rekord:
+  00000157f0015750, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 69 72 61 67 68 20 50 61 74 72 69 63 69 61 00   Viragh Patricia.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff90 0f 00 00 6d 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 20 40   ....m...\/
+      0030  00 00 00 00 00 00 0c 40 00 00 00 00 4b 4b 4b 4b   .......@....KKKK
+** 141/289. rekord:
+  00000157f018a750, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 7a 6d 61 20 4d 61 72 63 65 6c 6c 00 4b 4b   Kozma Marcell.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+  ....m..........@
+      0030  66 66 66 66 66 66 04 40 00 00 00 00 4b 4b 4b 4b   ffffff.@....KKKK
+** 142/289. rekord:
+  00000157f001e760, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 65 6d 65 73 20 42 6f 72 62 61 6c 61 00 4b 4b   Nemes Borbala.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc8 10 00 00 6d 00 00 00 7b 14 ffffffae 47 ffffffe1 7a 17 40   ....m...{..G.z./
+      0030  14 ffffffae 47 ffffffe1 7a 14 00 40 00 00 00 00 4b 4b 4b 4b   ..G.z..@....KKKK
+** 143/289. rekord:
+  00000157f0017760, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 6f 6c 6e 61 72 20 46 61 74 69 6d 65 00 4b 4b   Molnar Fatime.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc8 0f 00 00 6d 00 00 00 48 ffffffe1 7a 14 ffffffae 47 1c 40   ....m...H.z..G./
+      0030  ffffffd7 ffffffa3 70 3d 0a ffffffd7 09 40 00 00 00 00 4b 4b 4b 4b   ..p=...@....KKK£/
+** 144/289. rekord:
+  00000157f018b760, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 65 6d 65 73 20 49 76 65 74 74 00 4b 4b 4b 4b   Nemes Ivett.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffffc 0d 00 00 6d 00 00 00 33 33 33 33 33 33 20 40   ....m...333333 @
+      0030  ffffffe1 7a 14 ffffffae 47 ffffffe1 fffffff2 3f 00 00 00 00 4b 4b 4b 4b   .z..G..?.z{
+** 145/289. rekord:
+  00000157f0024780, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 65 67 68 20 47 65 72 74 72 75 64 00 4b 4b 4b   Vegh Gertrud.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  1c 11 00 00 6d 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 10 40   ....m..../
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 fffffff5 3f 00 00 00 00 4b 4b 4b 4b   ..(ı/
+** 146/289. rekord:
+  00000157f001b780, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 6f 76 61 6b 20 47 75 73 7a 74 61 76 00 4b 4b   Novak Gusztav.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffff8 0f 00 00 75 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 0f 40   .../
+      0030  3d 0a ffffffd7 ffffffa3 70 3d 06 40 00 00 00 00 4b 4b 4b 4b   =...p=.@....KKKK
+** 147/289. rekord:
+  00000157f001f7a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  52 6f 7a 73 61 20 41 6d 62 72 75 73 00 4b 4b 4b   Rozsa Ambrus.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffac 10 00 00 76 00 00 00 3d 0a ffffffd7 ffffffa3 70 3d 1e 40   ....v...=...p=./
+      0030  29 5c ffffff8f ffffffc2 fffffff5 28 0e 40 00 00 00 00 4b 4b 4b 4b   )\...(.@....KKK\]
+** 148/289. rekord:
+  00000157f018c7a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 6c 6f 67 68 20 4f 74 69 6c 69 61 00 4b 4b   Balogh Otilia.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffff8 0d 00 00 6d 00 00 00 00 00 00 00 00 00 0c 40   ....m..........@
+      0030  66 66 66 66 66 66 fffffffa 3f 00 00 00 00 4b 4b 4b 4b   ffffff.?....KKKK
+** 149/289. rekord:
+  00000157f002e7b0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 75 63 73 20 42 6c 61 6e 6b 61 00 4b 4b 4b   Szucs Blanka.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffbc 11 00 00 75 00 00 00 52 ffffffb8 1e ffffff85 ffffffeb 51 1a 40   ....u...R/
+      0030  52 ffffffb8 1e ffffff85 ffffffeb 51 04 40 00 00 00 00 4b 4b 4b 4b   R....Q.@....KKK∏/
+** 150/289. rekord:
+  00000157f00257c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 63 73 69 73 20 56 65 6e 64 65 6c 00 4b 4b   Kocsis Vendel.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe4 10 00 00 6d 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 1b 40   ....m...\/
+      0030  ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 00 40 00 00 00 00 4b 4b 4b 4b   ...(\..@.¬/
+** 151/289. rekord:
+  00000157f00207e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 65 7a 6f 20 52 65 6b 61 00 4b 4b 4b 4b 4b 4b   Mezo Reka.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  60 10 00 00 6d 00 00 00 71 3d 0a ffffffd7 ffffffa3 fffffff0 21 40   `...m...q=....!/
+      0030  ffffffd7 ffffffa3 70 3d 0a ffffffd7 13 40 00 00 00 00 4b 4b 4b 4b   ..p=...@....KKK£/
+** 152/289. rekord:
+  00000157f002f7f0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 62 6f 20 45 64 65 00 4b 4b 4b 4b 4b 4b   Szabo Ede.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe0 11 00 00 6d 00 00 00 ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 20 40   .../
+      0030  ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 0f 40 00 00 00 00 4b 4b 4b 4bö
+** 153/289. rekord:
+  00000157f0026800, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 69 6e 63 7a 65 20 56 65 6e 64 65 6c 00 4b 4b   Vincze Vendel.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  0c 11 00 00 6d 00 00 00 71 3d 0a ffffffd7 ffffffa3 70 09 40   ....m...q=...p.@
+      0030  ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 00 40 00 00 00 00 4b 4b 4b 4bÕ
+** 154/289. rekord:
+  00000157f0021820, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 61 72 6b 61 73 20 45 6c 69 7a 61 00 4b 4b 4b   Farkas Eliza.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  34 10 00 00 6d 00 00 00 ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 17 40   4...m..../
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 0d 40 00 00 00 00 4b 4b 4b 4b   ..Q....@.Î/
+** 155/289. rekord:
+  00000157f0030830, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 6c 6f 67 68 20 53 7a 69 6c 76 69 61 00 4b   Balogh Szilvia.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe4 11 00 00 6d 00 00 00 66 66 66 66 66 66 1e 40   ....m...ffffff.@
+      0030  66 66 66 66 66 66 11 40 0c 00 00 00 4b 4b 4b 4b   ffffff.@....KKKK
+** 156/289. rekord:
+  00000157f0027840, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 72 61 6c 79 20 41 6e 6e 61 6d 61 72 69 61   Kiraly Annamaria
+      0010  00 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   .KKKKKKKKKKKKKKK
+      0020  54 11 00 00 6d 00 00 00 ffffffe1 7a 14 ffffffae 47 ffffffe1 13 40   T...m....z..G../
+      0030  7b 14 ffffffae 47 ffffffe1 7a 06 40 00 00 00 00 4b 4b 4b 4b   {..G.z.@....KKKK
+** 157/289. rekord:
+  00000157f0006840, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 73 20 49 67 6e 61 63 00 4b 4b 4b 4b 4b   Kiss Ignac.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  40 0e 00 00 6d 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 16 40   @...m..../
+      0030  0a ffffffd7 ffffffa3 70 3d 0a 01 40 00 00 00 00 4b 4b 4b 4b   ...p=..@....KKKK
+** 158/289. rekord:
+  00000157f000a860, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 6c 61 7a 73 20 4b 6f 72 6e 65 6c 00 4b 4b   Balazs Kornel.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  78 0e 00 00 6d 00 00 00 ffffffe1 7a 14 ffffffae 47 ffffffe1 13 40   x...m....z..G../
+      0030  1f ffffff85 ffffffeb 51 ffffffb8 1e 01 40 00 00 00 00 4b 4b 4b 4b   ...Q...@....KKKÖ/
+** 159/289. rekord:
+  00000157f0031870, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 65 6b 65 6c 79 20 4b 6f 72 6e 65 6c 00 4b   Szekely Kornel.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffd0 11 00 00 6d 00 00 00 1f ffffff85 ffffffeb 51 ffffffb8 1e 09 40   ....m..../
+      0030  52 ffffffb8 1e ffffff85 ffffffeb 51 11 40 00 00 00 00 4b 4b 4b 4b   R....Q.@....KKK∏/
+** 160/289. rekord:
+  00000157f000c870, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 61 67 79 61 72 20 49 7a 6f 6c 64 61 00 4b 4b   Magyar Izolda.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffd8 0e 00 00 6d 00 00 00 14 ffffffae 47 ffffffe1 7a 14 0c 40   ....m.....G.z../
+      0030  66 66 66 66 66 66 02 40 00 00 00 00 4b 4b 4b 4b   ffffff.@....KKKK
+** 161/289. rekord:
+  00000157f0007880, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  54 6f 74 68 20 48 65 6c 67 61 00 4b 4b 4b 4b 4b   Toth Helga.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  30 0e 00 00 6d 00 00 00 ffffff8f ffffffc2 fffffff5 28 5c 0f 21 40   0...m......(\.!/
+      0030  29 5c ffffff8f ffffffc2 fffffff5 28 fffffffc 3f 00 00 00 00 4b 4b 4b 4b   )\...(.?.\]
+** 162/289. rekord:
+  00000157f0010890, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 65 68 65 72 20 43 65 63 69 6c 69 61 00 4b 4b   Feher Cecilia.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  20 0f 00 00 76 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 12 40    ...v...\...(\./
+      0030  fffffff6 28 5c ffffff8f ffffffc2 fffffff5 08 40 00 00 00 00 4b 4b 4b 4b   .(\....@.()
+** 163/289. rekord:
+  00000157f000b8a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 6f 6c 6e 61 72 20 41 64 72 69 61 6e 00 4b 4b   Molnar Adrian.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff90 0e 00 00 6d 00 00 00 ffffffae 47 ffffffe1 7a 14 ffffffae 1d 40   ....m..../
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 fffffff1 3f 00 00 00 00 4b 4b 4b 4b   ..(ı/
+** 164/289. rekord:
+  00000157f00038a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 69 6e 63 7a 65 20 4d 61 72 67 69 74 00 4b 4b   Vincze Margit.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  75 0d 00 00 6d 00 00 00 52 ffffffb8 1e ffffff85 ffffffeb 51 1d 40   u...m...R....Q./
+      0030  ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 0b 40 00 00 00 00 4b 4b 4b 4b   .Q.....@.QR
+** 165/289. rekord:
+  00000157f00148b0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 6f 64 6e 61 72 20 45 6c 65 6b 00 4b 4b 4b 4b   Bodnar Elek.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  50 0f 00 00 6d 00 00 00 ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 09 40P
+      0030  48 ffffffe1 7a 14 ffffffae 47 09 40 00 00 00 00 4b 4b 4b 4b   H.z..G.@....KKKK
+** 166/289. rekord:
+  00000157f000d8b0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 61 74 6f 6e 61 20 45 76 65 6c 69 6e 00 4b 4b   Katona Evelin.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+  ....v..........@
+      0030  00 00 00 00 00 00 fffffff8 3f 00 00 00 00 4b 4b 4b 4b   .......?....KKKK
+** 167/289. rekord:
+  00000157f00168c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 61 72 6b 61 73 20 5a 65 6e 6f 00 4b 4b 4b 4b   Farkas Zeno.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffbc 0f 00 00 6d 00 00 00 ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 01 40   .../
+      0030  29 5c ffffff8f ffffffc2 fffffff5 28 11 40 00 00 00 00 4b 4b 4b 4b   )\...(.@....KKK\]
+** 168/289. rekord:
+  00000157f00118d0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 6c 61 68 20 52 6f 62 65 72 74 00 4b 4b 4b 4b   Olah Robert.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  44 0f 00 00 76 00 00 00 ffffffe1 7a 14 ffffffae 47 ffffffe1 12 40   D...v....z..G../
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 11 40 00 00 00 00 4b 4b 4b 4b   ..Q....@.Î/
+** 169/289. rekord:
+  00000157f01878d0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 72 6e 61 20 4c 69 6c 69 00 4b 4b 4b 4b 4b   Barna Lili.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff8c 0d 00 00 6d 00 00 00 1f ffffff85 ffffffeb 51 ffffffb8 1e 14 40   ....m..../
+      0030  3d 0a ffffffd7 ffffffa3 70 3d 13 40 00 00 00 00 4b 4b 4b 4b   =...p=.@....KKKK
+** 170/289. rekord:
+  00000157f001a8e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 61 70 70 20 4d 61 6c 76 69 6e 00 4b 4b 4b 4b   Papp Malvin.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  2c 10 00 00 76 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 20 40   ,...v..../
+      0030  29 5c ffffff8f ffffffc2 fffffff5 28 0e 40 00 00 00 00 4b 4b 4b 4b   )\...(.@....KKK\]
+** 171/289. rekord:
+  00000157f00158f0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 69 6c 61 67 79 69 20 4a 6f 7a 73 65 66 00   Szilagyi Jozsef.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff98 0f 00 00 6d 00 00 00 00 00 00 00 00 00 1a 40   ....m..........@
+      0030  ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 10 40 00 00 00 00 4b 4b 4b 4b   ...(\..@.¬/
+** 172/289. rekord:
+  00000157f018a8f0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 76 61 63 73 20 47 79 6f 72 67 79 00 4b 4b   Kovacs Gyorgy.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffbc 0d 00 00 6d 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 04 40   .../
+      0030  48 ffffffe1 7a 14 ffffffae 47 0b 40 00 00 00 00 4b 4b 4b 4b   H.z..G.@....KKKK
+** 173/289. rekord:
+  00000157f001e900, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 6c 61 69 20 48 75 62 61 00 4b 4b 4b 4b   Szalai Huba.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffcc 10 00 00 76 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 1f 40   .../
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 0a 40 00 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 174/289. rekord:
+  00000157f0017900, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 75 64 61 69 20 47 65 6e 6f 76 65 76 61 00 4b   Budai Genoveva.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffcc 0f 00 00 6d 00 00 00 71 3d 0a ffffffd7 ffffffa3 70 1d 40   ....m...q=...p./
+      0030  66 66 66 66 66 66 13 40 00 00 00 00 4b 4b 4b 4b   ffffff.@....KKKK
+** 175/289. rekord:
+  00000157f018b900, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 61 72 6b 61 73 20 4d 61 72 69 61 6e 6e 61 00   Farkas Marianna.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  08 0e 00 00 6d 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 15 40   ....m..../
+      0030  ffffffae 47 ffffffe1 7a 14 ffffffae 05 40 00 00 00 00 4b 4b 4b 4b   .G.z...@....KKKGH
+** 176/289. rekord:
+  00000157f0024920, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 6f 64 6f 72 20 44 61 6e 69 65 6c 6c 61 00 4b   Fodor Daniella.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  3c 11 00 00 6d 00 00 00 48 ffffffe1 7a 14 ffffffae 47 0b 40   <...m...H.z..G.@
+      0030  ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 fffffffa 3f 00 00 00 00 4b 4b 4b 4b   .../
+** 177/289. rekord:
+  00000157f001b920, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  45 72 6f 73 20 4e 6f 65 6c 00 4b 4b 4b 4b 4b 4b   Eros Noel.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffff4 0f 00 00 6d 00 00 00 1f ffffff85 ffffffeb 51 ffffffb8 1e 10 40   ....m..../
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 13 40 00 00 00 00 4b 4b 4b 4b   ..(\...@.ı/
+** 178/289. rekord:
+  00000157f001f940, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 6f 72 6f 73 20 45 6c 6c 61 6b 00 4b 4b 4b 4b   Boros Ellak.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc0 10 00 00 76 00 00 00 ffffffe1 7a 14 ffffffae 47 ffffffe1 1e 40   ....v..../
+      0030  29 5c ffffff8f ffffffc2 fffffff5 28 00 40 00 00 00 00 4b 4b 4b 4b   )\...(.@....KKK\]
+** 179/289. rekord:
+  00000157f018c940, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 61 67 79 61 72 20 4b 6f 6e 73 74 61 6e 74 69   Magyar Konstanti
+      0010  6e 00 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   n.KKKKKKKKKKKKKK
+      0020  14 0e 00 00 6d 00 00 00 ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc 4c 21 40   .../
+      0030  5c ffffff8f ffffffc2 fffffff5 28 5c 09 40 00 00 00 00 4b 4b 4b 4b   \...(\.@....KKKè/
+** 180/289. rekord:
+  00000157f002e950, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 76 61 63 73 20 54 69 76 61 64 61 72 00 4b   Kovacs Tivadar.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffd8 11 00 00 76 00 00 00 7b 14 ffffffae 47 ffffffe1 7a 06 40   ....v...{..G.z./
+      0030  3d 0a ffffffd7 ffffffa3 70 3d 10 40 00 00 00 00 4b 4b 4b 4b   =...p=.@....KKKK
+** 181/289. rekord:
+  00000157f0188950, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 20 44 61 6e 69 65 6c 00 4b 4b 4b 4b 4b   Kis Daniel.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa4 0d 00 00 6d 00 00 00 ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 0a 40   .../
+      0030  5c ffffff8f ffffffc2 fffffff5 28 5c ffffffff 3f 00 00 00 00 4b 4b 4b 4b   \...(\.?.è/
+** 182/289. rekord:
+  00000157f0025960, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 61 73 7a 74 6f 72 20 41 64 61 6c 62 65 72 74   Pasztor Adalbert
+      0010  00 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   .KKKKKKKKKKKKKKK
+      0020  ffffffec 10 00 00 76 00 00 00 7b 14 ffffffae 47 ffffffe1 7a 1c 40   ....v...{..G.z./
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 0b 40 09 00 00 00 4b 4b 4b 4b   ..(\...@.ı/
+** 183/289. rekord:
+  00000157f0020980, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 75 63 73 20 55 6c 72 69 6b 00 4b 4b 4b 4b   Szucs Ulrik.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  6c 10 00 00 75 00 00 00 ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 1c 40l
+      0030  ffffffae 47 ffffffe1 7a 14 ffffffae 0f 40 00 00 00 00 4b 4b 4b 4b   .G.z...@....KKKGH
+** 184/289. rekord:
+  00000157f00269a0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4c 65 6e 67 79 65 6c 20 47 75 73 7a 74 61 76 00   Lengyel Gusztav.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  2c 11 00 00 76 00 00 00 ffffffe1 7a 14 ffffffae 47 ffffffe1 15 40   ,...v....z..G../
+      0030  ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 13 40 00 00 00 00 4b 4b 4b 4b   ...(\..@.¬/
+** 185/289. rekord:
+  00000157f00219c0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 73 20 45 6e 69 6b 6f 00 4b 4b 4b 4b 4b   Kiss Eniko.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  4c 10 00 00 6d 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 0b 40   L...m..../
+      0030  fffffff6 28 5c ffffff8f ffffffc2 fffffff5 04 40 00 00 00 00 4b 4b 4b 4b   .(\....@.()
+** 186/289. rekord:
+  00000157f00279e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 61 74 6f 6e 61 20 53 7a 69 6c 61 72 64 00 4b   Katona Szilard.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  5c 11 00 00 6d 00 00 00 ffffffd7 ffffffa3 70 3d 0a ffffffd7 14 40   \...m.....p=.../
+      0030  ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 12 40 00 00 00 00 4b 4b 4b 4b   ...(\..@.¬/
+** 187/289. rekord:
+  00000157f00069e0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 6c 61 68 20 53 7a 69 6d 6f 6e 65 74 74 61 00   Olah Szimonetta.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  50 0e 00 00 76 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 01 40   P...v..../
+      0030  ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 0f 40 00 00 00 00 4b 4b 4b 4bö
+** 188/289. rekord:
+  00000157f000aa00, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 72 6f 73 7a 20 52 6f 62 65 72 74 00 4b 4b 4b   Orosz Robert.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff88 0e 00 00 76 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 1f 40   .../
+      0030  29 5c ffffff8f ffffffc2 fffffff5 28 12 40 0c 00 00 00 4b 4b 4b 4b   )\...(.@....KKK\]
+** 189/289. rekord:
+  00000157f0031a10, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 62 6f 20 45 6c 6c 61 6b 00 4b 4b 4b 4b   Szabo Ellak.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff98 11 00 00 6d 00 00 00 52 ffffffb8 1e ffffff85 ffffffeb 51 02 40   ....m...R/
+      0030  1f ffffff85 ffffffeb 51 ffffffb8 1e 0d 40 00 00 00 00 4b 4b 4b 4b   ...Q...@....KKKÖ/
+** 190/289. rekord:
+  00000157f000ca10, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  45 72 6f 73 20 50 61 75 6c 61 00 4b 4b 4b 4b 4b   Eros Paula.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffec 0e 00 00 6d 00 00 00 ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 21 40   .../
+      0030  00 00 00 00 00 00 08 40 00 00 00 00 4b 4b 4b 4b   .......@....KKKK
+** 191/289. rekord:
+  00000157f0007a20, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 6f 64 6e 61 72 20 52 6f 62 65 72 74 00 4b 4b   Bodnar Robert.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  64 0e 00 00 6d 00 00 00 ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 19 40   d...m..../
+      0030  71 3d 0a ffffffd7 ffffffa3 70 fffffff1 3f 10 00 00 00 4b 4b 4b 4b   q=...p.?....KKK=>
+** 192/289. rekord:
+  00000157f0010a30, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 61 6a 6f 72 20 5a 73 75 7a 73 61 6e 6e 61 00   Major Zsuzsanna.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  34 0f 00 00 6d 00 00 00 48 ffffffe1 7a 14 ffffffae 47 1e 40   4...m...H.z..G.@
+      0030  29 5c ffffff8f ffffffc2 fffffff5 28 fffffff8 3f 00 00 00 00 4b 4b 4b 4b   )\...(.?.\]
+** 193/289. rekord:
+  00000157f000ba40, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 69 6c 61 67 79 69 20 4c 65 69 6c 61 00 4b   Szilagyi Leila.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff94 0e 00 00 75 00 00 00 52 ffffffb8 1e ffffff85 ffffffeb 51 0a 40   ....u...R/
+      0030  33 33 33 33 33 33 03 40 00 00 00 00 4b 4b 4b 4b   333333.@....KKKK
+** 194/289. rekord:
+  00000157f0014a50, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 6f 64 6e 61 72 20 47 65 64 65 6f 6e 00 4b 4b   Bodnar Gedeon.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  7c 0f 00 00 6d 00 00 00 ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 0e 40|
+      0030  52 ffffffb8 1e ffffff85 ffffffeb 51 fffffff0 3f 00 00 00 00 4b 4b 4b 4b   R....Q.?.∏/
+** 195/289. rekord:
+  00000157f000da50, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 61 72 67 61 20 4c 75 6b 61 63 73 00 4b 4b 4b   Varga Lukacs.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb8 0e 00 00 6d 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 19 40   ....m...\/
+      0030  52 ffffffb8 1e ffffff85 ffffffeb 51 12 40 00 00 00 00 4b 4b 4b 4b   R....Q.@....KKK∏/
+** 196/289. rekord:
+  00000157f0016a60, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 65 68 65 72 20 41 6e 6e 61 00 4b 4b 4b 4b 4b   Feher Anna.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffd4 0f 00 00 75 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 1a 40   .../
+      0030  ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 08 40 00 00 00 00 4b 4b 4b 4b   ....Q..@./
+** 197/289. rekord:
+  00000157f0011a70, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  45 72 6f 73 20 4d 69 6b 6c 6f 73 00 4b 4b 4b 4b   Eros Miklos.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  18 0f 00 00 6d 00 00 00 48 ffffffe1 7a 14 ffffffae 47 16 40   ....m...H.z..G.@
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 06 40 00 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 198/289. rekord:
+  00000157f001aa80, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  54 6f 74 68 20 41 67 6e 65 73 00 4b 4b 4b 4b 4b   Toth Agnes.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  30 10 00 00 6d 00 00 00 71 3d 0a ffffffd7 ffffffa3 70 13 40   0...m...q=...p.@
+      0030  ffffffe1 7a 14 ffffffae 47 ffffffe1 fffffffe 3f 00 00 00 00 4b 4b 4b 4b   .z..G..?.z{
+** 199/289. rekord:
+  00000157f0015a90, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  54 6f 72 6f 6b 20 56 69 64 00 4b 4b 4b 4b 4b 4b   Torok Vid.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  60 0f 00 00 6d 00 00 00 ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 10 40`
+      0030  ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 08 40 00 00 00 00 4b 4b 4b 4bÕ
+** 200/289. rekord:
+  00000157f018aa90, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 65 68 65 72 20 45 6d 65 73 65 00 4b 4b 4b 4b   Feher Emese.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc8 0d 00 00 6d 00 00 00 14 ffffffae 47 ffffffe1 7a 14 1d 40   ....m.....G.z../
+      0030  ffffffae 47 ffffffe1 7a 14 ffffffae 0f 40 00 00 00 00 4b 4b 4b 4b   .G.z...@....KKKGH
+** 201/289. rekord:
+  00000157f001eaa0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 6c 61 68 20 5a 73 61 6e 65 74 74 00 4b 4b 4b   Olah Zsanett.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  3c 10 00 00 6d 00 00 00 ffffffe1 7a 14 ffffffae 47 ffffffe1 06 40   <...m....z..G../
+      0030  14 ffffffae 47 ffffffe1 7a 14 10 40 00 00 00 00 4b 4b 4b 4b   ..G.z..@....KKKK
+** 202/289. rekord:
+  00000157f0017aa0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 65 6d 65 73 20 4f 74 69 6c 69 61 00 4b 4b 4b   Nemes Otilia.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffd0 0f 00 00 76 00 00 00 14 ffffffae 47 ffffffe1 7a 14 15 40   ....v.....G.z../
+      0030  0a ffffffd7 ffffffa3 70 3d 0a 01 40 00 00 00 00 4b 4b 4b 4b   ...p=..@....KKKK
+** 203/289. rekord:
+  00000157f018baa0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 69 72 6f 20 4a 6f 68 61 6e 6e 61 00 4b 4b 4b   Biro Johanna.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  18 0e 00 00 75 00 00 00 3d 0a ffffffd7 ffffffa3 70 3d 10 40   ....u...=...p=.@
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 03 40 00 00 00 00 4b 4b 4b 4b   ..(\...@.ı/
+** 204/289. rekord:
+  00000157f0024ac0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 6c 6f 67 68 20 54 61 6d 61 72 61 00 4b 4b   Balogh Tamara.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  18 11 00 00 6d 00 00 00 ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 21 40   ....m..../
+      0030  ffffffd7 ffffffa3 70 3d 0a ffffffd7 fffffffb 3f 00 00 00 00 4b 4b 4b 4b   ..p=...?.£/
+** 205/289. rekord:
+  00000157f001bac0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 61 67 79 61 72 20 56 69 6f 6c 61 00 4b 4b 4b   Magyar Viola.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffff0 0f 00 00 6d 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 75 21 40   ....m..../
+      0030  29 5c ffffff8f ffffffc2 fffffff5 28 11 40 05 00 00 00 4b 4b 4b 4b   )\...(.@....KKK\]
+** 206/289. rekord:
+  00000157f001fae0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 6f 6c 6e 61 72 20 4b 61 74 61 6c 69 6e 00 4b   Molnar Katalin.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa0 10 00 00 75 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 15 40   ....u...\/
+      0030  3d 0a ffffffd7 ffffffa3 70 3d 10 40 08 00 00 00 4b 4b 4b 4b   =...p=.@....KKKK
+** 207/289. rekord:
+  00000157f018cae0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 65 6d 65 74 68 20 4d 61 74 69 6c 64 00 4b 4b   Nemeth Matild.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffd4 0d 00 00 6d 00 00 00 71 3d 0a ffffffd7 ffffffa3 70 1b 40   ....m...q=...p./
+      0030  71 3d 0a ffffffd7 ffffffa3 70 10 40 00 00 00 00 4b 4b 4b 4b   q=...p.@....KKKK
+** 208/289. rekord:
+  00000157f002eaf0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 65 7a 6f 20 41 64 6f 72 6a 61 6e 00 4b 4b 4b   Mezo Adorjan.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffdc 11 00 00 76 00 00 00 ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 21 40   .../
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 fffffff7 3f 00 00 00 00 4b 4b 4b 4b   ..QÎ/
+** 209/289. rekord:
+  00000157f0025b00, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 62 6f 20 52 61 66 61 65 6c 00 4b 4b 4b   Szabo Rafael.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffffc 10 00 00 76 00 00 00 ffffffd7 ffffffa3 70 3d 0a ffffffd7 10 40   ....v..../
+      0030  ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 0e 40 00 00 00 00 4b 4b 4b 4b   ...(\..@.¬/
+** 210/289. rekord:
+  00000157f0020b20, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 6c 61 68 20 54 75 6e 64 65 00 4b 4b 4b 4b 4b   Olah Tunde.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff80 10 00 00 6d 00 00 00 33 33 33 33 33 33 01 40   ....m...333333.@
+      0030  3d 0a ffffffd7 ffffffa3 70 3d 13 40 00 00 00 00 4b 4b 4b 4b   =...p=.@....KKKK
+** 211/289. rekord:
+  00000157f002fb30, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 61 67 79 20 41 6e 67 65 6c 69 6b 61 00 4b 4b   Nagy Angelika.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff88 11 00 00 6d 00 00 00 00 00 00 00 00 00 15 40   ....m..........@
+      0030  ffffffd7 ffffffa3 70 3d 0a ffffffd7 0f 40 00 00 00 00 4b 4b 4b 4b   ..p=...@....KKK£/
+** 212/289. rekord:
+  00000157f0026b40, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 65 7a 6f 20 42 65 6c 6c 61 00 4b 4b 4b 4b 4b   Mezo Bella.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  48 11 00 00 6d 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 10 40   H...m......p=..@
+      0030  ffffffe1 7a 14 ffffffae 47 ffffffe1 06 40 00 00 00 00 4b 4b 4b 4b   .z..G..@....KKKz{
+** 213/289. rekord:
+  00000157f0021b60, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 61 7a 65 6b 61 73 20 46 75 6c 6f 70 00 4b 4b   Fazekas Fulop.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  64 10 00 00 6d 00 00 00 ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 07 40   d...m..../
+      0030  ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 0c 40 00 00 00 00 4b 4b 4b 4b   ....Q..@./
+** 214/289. rekord:
+  00000157f0003b60, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 62 6f 20 4c 65 6f 00 4b 4b 4b 4b 4b 4b   Szabo Leo.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  78 0d 00 00 75 00 00 00 ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 18 40x
+      0030  ffffffd7 ffffffa3 70 3d 0a ffffffd7 13 40 00 00 00 00 4b 4b 4b 4b   ..p=...@....KKK£/
+** 215/289. rekord:
+  00000157f0027b80, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 69 72 61 67 68 20 52 61 6a 6d 75 6e 64 00 4b   Viragh Rajmund.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  60 11 00 00 76 00 00 00 29 5c ffffff8f ffffffc2 fffffff5 28 06 40   `...v...)\...(./
+      0030  5c ffffff8f ffffffc2 fffffff5 28 5c 03 40 00 00 00 00 4b 4b 4b 4b   \...(\.@....KKKè/
+** 216/289. rekord:
+  00000157f0006b80, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4c 61 6b 61 74 6f 73 20 41 6c 62 65 72 74 00 4b   Lakatos Albert.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  3c 0e 00 00 76 00 00 00 ffffffe1 7a 14 ffffffae 47 ffffffe1 14 40   <...v....z..G../
+      0030  ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 11 40 00 00 00 00 4b 4b 4b 4bö
+** 217/289. rekord:
+  00000157f0187b90, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 62 6f 20 50 61 75 6c 69 6e 61 00 4b 4b   Szabo Paulina.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff90 0d 00 00 6d 00 00 00 52 ffffffb8 1e ffffff85 ffffffeb 51 1d 40   ....m...R/
+      0030  52 ffffffb8 1e ffffff85 ffffffeb 51 fffffff0 3f 00 00 00 00 4b 4b 4b 4b   R....Q.?.∏/
+** 218/289. rekord:
+  00000157f000aba0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  2d 00 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   -.KKKKKKKKKKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  6c 0e 00 00 2d 00 00 00 00 00 00 00 00 00 00 00   l...-...........
+      0030  00 00 00 00 00 00 00 00 00 00 00 00 4b 4b 4b 4b   ............KKKK
+** 219/289. rekord:
+  00000157f0031bb0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  52 61 63 7a 20 4b 61 7a 6d 65 72 00 4b 4b 4b 4b   Racz Kazmer.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe8 11 00 00 76 00 00 00 71 3d 0a ffffffd7 ffffffa3 70 20 40   ....v...q=...p /
+      0030  00 00 00 00 00 00 04 40 00 00 00 00 4b 4b 4b 4b   .......@....KKKK
+** 220/289. rekord:
+  00000157f000cbb0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  55 6a 68 65 6c 79 69 20 4a 6f 7a 73 65 66 00 4b   Ujhelyi Jozsef.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffff8 0e 00 00 6d 00 00 00 00 00 00 00 00 00 08 40   ....m..........@
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 0d 40 0e 00 00 00 4b 4b 4b 4b   ..Q....@.Î/
+** 221/289. rekord:
+  00000157f0007bc0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 72 6e 61 20 46 72 69 64 61 00 4b 4b 4b 4b   Barna Frida.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  24 0e 00 00 76 00 00 00 ffffffd7 ffffffa3 70 3d 0a ffffffd7 1d 40   $...v.....p=.../
+      0030  ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 0e 40 00 00 00 00 4b 4b 4b 4b   ....Q..@./
+** 222/289. rekord:
+  00000157f0010bd0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 61 72 6b 61 73 20 49 64 61 00 4b 4b 4b 4b 4b   Farkas Ida.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  1c 0f 00 00 76 00 00 00 ffffffa4 70 3d 0a ffffffd7 ffffffa3 16 40   ....v....p=..../
+      0030  ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 13 40 00 00 00 00 4b 4b 4b 4bö
+** 223/289. rekord:
+  00000157f000bbe0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 61 67 79 20 42 61 6c 69 6e 74 00 4b 4b 4b 4b   Nagy Balint.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff98 0e 00 00 75 00 00 00 0a ffffffd7 ffffffa3 70 3d ffffff8a 20 40   ....u..../
+      0030  48 ffffffe1 7a 14 ffffffae 47 fffffff5 3f 00 00 00 00 4b 4b 4b 4b   H.z..G.?....KKK·/
+** 224/289. rekord:
+  00000157f0014bf0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 61 6a 64 75 20 44 61 6c 6d 61 00 4b 4b 4b 4b   Hajdu Dalma.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff94 0f 00 00 76 00 00 00 33 33 33 33 33 33 14 40   ....v...333333.@
+      0030  48 ffffffe1 7a 14 ffffffae 47 03 40 00 00 00 00 4b 4b 4b 4b   H.z..G.@....KKKK
+** 225/289. rekord:
+  00000157f000dbf0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 6c 61 69 20 46 75 6c 6f 70 00 4b 4b 4b   Szalai Fulop.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc8 0e 00 00 6d 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 20 40   ....m...\/
+      0030  1f ffffff85 ffffffeb 51 ffffffb8 1e 0d 40 00 00 00 00 4b 4b 4b 4b   ...Q...@....KKKÖ/
+** 226/289. rekord:
+  00000157f0016c00, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 72 6f 73 7a 20 41 62 72 61 68 61 6d 00 4b 4b   Orosz Abraham.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffd8 0f 00 00 6d 00 00 00 7b 14 ffffffae 47 ffffffe1 7a 10 40   ....m...{..G.z./
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 03 40 00 00 00 00 4b 4b 4b 4b   ..(\...@.ı/
+** 227/289. rekord:
+  00000157f0011c10, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  55 6a 68 65 6c 79 69 20 48 6f 72 74 65 6e 7a 69   Ujhelyi Hortenzi
+      0010  61 00 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   a.KKKKKKKKKKKKKK
+      0020  48 0f 00 00 76 00 00 00 ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 03 40H
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 fffffffb 3f 00 00 00 00 4b 4b 4b 4b   ..QÎ/
+** 228/289. rekord:
+  00000157f0188c10, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 72 61 6c 79 20 4d 61 72 74 69 6e 61 00 4b   Kiraly Martina.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa8 0d 00 00 76 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 16 40   ....v...\/
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 0e 40 00 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 229/289. rekord:
+  00000157f001ac20, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4c 65 6e 67 79 65 6c 20 46 61 6e 6e 69 00 4b 4b   Lengyel Fanni.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  08 10 00 00 76 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 01 40   ....v......p=..@
+      0030  66 66 66 66 66 66 11 40 01 00 00 00 4b 4b 4b 4b   ffffff.@....KKKK
+** 230/289. rekord:
+  00000157f0015c30, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 69 70 6f 73 20 4e 61 74 61 6c 69 61 00 4b 4b   Sipos Natalia.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  5c 0f 00 00 6d 00 00 00 ffffffd7 ffffffa3 70 3d 0a ffffffd7 0b 40   \...m.....p=.../
+      0030  52 ffffffb8 1e ffffff85 ffffffeb 51 fffffff8 3f 00 00 00 00 4b 4b 4b 4b   R....Q.?.∏/
+** 231/289. rekord:
+  00000157f018ac30, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 72 6f 73 7a 20 41 6e 64 72 65 61 00 4b 4b 4b   Orosz Andrea.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffcc 0d 00 00 75 00 00 00 48 ffffffe1 7a 14 ffffffae 47 16 40   ....u...H.z..G./
+      0030  0a ffffffd7 ffffffa3 70 3d 0a 12 40 00 00 00 00 4b 4b 4b 4b   ...p=..@....KKKK
+** 232/289. rekord:
+  00000157f001ec40, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  47 75 6c 79 61 73 20 48 65 72 6d 69 6e 61 00 4b   Gulyas Hermina.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff9c 10 00 00 76 00 00 00 ffffffe1 7a 14 ffffffae 47 ffffffe1 13 40   ....v..../
+      0030  5c ffffff8f ffffffc2 fffffff5 28 5c 01 40 00 00 00 00 4b 4b 4b 4b   \...(\.@....KKKè/
+** 233/289. rekord:
+  00000157f0017c40, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 6f 64 6e 61 72 20 56 61 7a 75 6c 00 4b 4b 4b   Bodnar Vazul.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe4 0f 00 00 76 00 00 00 52 ffffffb8 1e ffffff85 ffffffeb 51 17 40   ....v...R/
+      0030  ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 0a 40 03 00 00 00 4b 4b 4b 4bÕ
+** 234/289. rekord:
+  00000157f018bc40, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 65 6d 65 73 20 49 67 6e 61 63 00 4b 4b 4b 4b   Nemes Ignac.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  1c 0e 00 00 76 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 16 40   ....v......p=..@
+      0030  ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 00 40 00 00 00 00 4b 4b 4b 4bÕ
+** 235/289. rekord:
+  00000157f0024c60, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 62 6f 20 49 6e 67 72 69 64 00 4b 4b 4b   Szabo Ingrid.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  14 11 00 00 6d 00 00 00 ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 10 40
+      0030  fffffff6 28 5c ffffff8f ffffffc2 fffffff5 08 40 0f 00 00 00 4b 4b 4b 4b   .(\....@.()
+** 236/289. rekord:
+  00000157f001bc60, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  52 61 63 7a 20 5a 65 72 69 6e 64 00 4b 4b 4b 4b   Racz Zerind.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  14 10 00 00 6d 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 0f 40   ....m..../
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 0d 40 00 00 00 00 4b 4b 4b 4b   ..Q....@.Î/
+** 237/289. rekord:
+  00000157f001fc80, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  2d 00 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   -.KKKKKKKKKKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  44 10 00 00 2d 00 00 00 00 00 00 00 00 00 00 00   D...-...........
+      0030  00 00 00 00 00 00 00 00 00 00 00 00 4b 4b 4b 4b   ............KKKK
+** 238/289. rekord:
+  00000157f018cc80, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 69 6c 61 67 79 69 20 41 64 61 6c 62 65 72   Szilagyi Adalber
+      0010  74 00 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   t.KKKKKKKKKKKKKK
+      0020  ffffffe0 0d 00 00 6d 00 00 00 ffffffa4 70 3d 0a ffffffd7 ffffffa3 21 40   ....m..../
+      0030  33 33 33 33 33 33 0b 40 00 00 00 00 4b 4b 4b 4b   333333.@....KKKK
+** 239/289. rekord:
+  00000157f002ec90, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 6f 64 6f 72 20 4d 69 72 65 6c 6c 61 00 4b 4b   Fodor Mirella.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffc8 11 00 00 6d 00 00 00 3d 0a ffffffd7 ffffffa3 70 3d 12 40   ....m...=...p=./
+      0030  48 ffffffe1 7a 14 ffffffae 47 07 40 00 00 00 00 4b 4b 4b 4b   H.z..G.@....KKKK
+** 240/289. rekord:
+  00000157f0025ca0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 62 6f 20 43 73 69 6c 6c 61 00 4b 4b 4b   Szabo Csilla.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  10 11 00 00 6d 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 13 40   ....m...\...(\./
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 0e 40 00 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 241/289. rekord:
+  00000157f0020cc0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  54 6f 74 20 50 65 74 72 61 00 4b 4b 4b 4b 4b 4b   Tot Petra.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  78 10 00 00 6d 00 00 00 ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 07 40x
+      0030  ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 11 40 00 00 00 00 4b 4b 4b 4bÕ
+** 242/289. rekord:
+  00000157f002fcd0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 76 61 74 73 20 41 62 65 6c 00 4b 4b 4b 4b   Kovats Abel.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+  ....m..........@
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 09 40 0b 00 00 00 4b 4b 4b 4b   ..Q....@.Î/
+** 243/289. rekord:
+  00000157f0026ce0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  2d 00 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   -.KKKKKKKKKKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  34 11 00 00 2d 00 00 00 00 00 00 00 00 00 00 00   4...-...........
+      0030  00 00 00 00 00 00 00 00 00 00 00 00 4b 4b 4b 4b   ............KKKK
+** 244/289. rekord:
+  00000157f0021d00, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  52 61 63 7a 20 41 62 65 6c 00 4b 4b 4b 4b 4b 4b   Racz Abel.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  68 10 00 00 6d 00 00 00 ffffffd7 ffffffa3 70 3d 0a ffffffd7 17 40   h...m.....p=.../
+      0030  71 3d 0a ffffffd7 ffffffa3 70 03 40 03 00 00 00 4b 4b 4b 4b   q=...p.@....KKKK
+** 245/289. rekord:
+  00000157f0027d20, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 6f 72 76 61 74 20 42 65 6e 63 65 00 4b 4b 4b   Horvat Bence.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  64 11 00 00 6d 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 05 40   d...m..../
+      0030  00 00 00 00 00 00 13 40 00 00 00 00 4b 4b 4b 4b   .......@....KKKK
+** 246/289. rekord:
+  00000157f0006d20, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  54 6f 74 20 44 69 61 6e 61 00 4b 4b 4b 4b 4b 4b   Tot Diana.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  54 0e 00 00 6d 00 00 00 52 ffffffb8 1e ffffff85 ffffffeb 51 02 40   T...m...R....Q./
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 10 40 00 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 247/289. rekord:
+  00000157f000ad40, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 6c 6f 67 68 20 45 76 61 00 4b 4b 4b 4b 4b   Balogh Eva.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa0 0e 00 00 6d 00 00 00 ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 1d 40   .../
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 12 40 00 00 00 00 4b 4b 4b 4b   ..(\...@.ı/
+** 248/289. rekord:
+  00000157f0031d50, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 61 62 6f 20 4b 61 72 6f 6c 79 00 4b 4b 4b   Szabo Karoly.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa8 11 00 00 6d 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 1d 40   .../
+      0030  52 ffffffb8 1e ffffff85 ffffffeb 51 13 40 00 00 00 00 4b 4b 4b 4b   R....Q.@....KKK∏/
+** 249/289. rekord:
+  00000157f000cd50, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 65 6b 65 6c 79 20 41 67 6f 74 61 00 4b 4b   Szekely Agota.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  00 0f 00 00 6d 00 00 00 1f ffffff85 ffffffeb 51 ffffffb8 1e 12 40   ....m......Q.../
+      0030  00 00 00 00 00 00 0a 40 07 00 00 00 4b 4b 4b 4b   .......@....KKKK
+** 250/289. rekord:
+  00000157f0007d60, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 6f 6c 6e 61 72 20 43 73 69 6c 6c 61 00 4b 4b   Molnar Csilla.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  2c 0e 00 00 6d 00 00 00 00 00 00 00 00 00 04 40   ,...m..........@
+      0030  ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 05 40 00 00 00 00 4b 4b 4b 4bö
+** 251/289. rekord:
+  00000157f0010d70, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 75 63 73 20 49 76 6f 00 4b 4b 4b 4b 4b 4b   Szucs Ivo.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  24 0f 00 00 6d 00 00 00 ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 18 40$
+      0030  66 66 66 66 66 66 fffffff6 3f 00 00 00 00 4b 4b 4b 4b   ffffff.?....KKKK
+** 252/289. rekord:
+  00000157f000bd80, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 61 70 70 20 49 6e 65 7a 00 4b 4b 4b 4b 4b 4b   Papp Inez.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff9c 0e 00 00 6d 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 00 40   .../
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 11 40 09 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 253/289. rekord:
+  00000157f0014d90, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 61 73 7a 74 6f 72 20 4b 6c 61 75 64 69 61 00   Pasztor Klaudia.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  54 0f 00 00 75 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 1b 40   T...u..../
+      0030  7b 14 ffffffae 47 ffffffe1 7a 13 40 03 00 00 00 4b 4b 4b 4b   {..G.z.@....KKKK
+** 254/289. rekord:
+  00000157f000dd90, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 6f 72 76 61 74 68 20 41 67 6f 74 61 00 4b 4b   Horvath Agota.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffcc 0e 00 00 76 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 1a 40   .../
+      0030  00 00 00 00 00 00 06 40 00 00 00 00 4b 4b 4b 4b   .......@....KKKK
+** 255/289. rekord:
+  00000157f0016da0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 7a 65 6b 65 6c 79 20 47 65 72 67 65 6c 79 00   Szekely Gergely.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe0 0f 00 00 6d 00 00 00 1f ffffff85 ffffffeb 51 ffffffb8 1e 21 40   ....m..../
+      0030  5c ffffff8f ffffffc2 fffffff5 28 5c 03 40 00 00 00 00 4b 4b 4b 4b   \...(\.@....KKKè/
+** 256/289. rekord:
+  00000157f0011db0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 61 6c 6f 67 68 20 4c 6f 72 61 6e 64 00 4b 4b   Balogh Lorand.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  4c 0f 00 00 76 00 00 00 ffffffae 47 ffffffe1 7a 14 ffffffae 1a 40   L...v....G.z.../
+      0030  33 33 33 33 33 33 fffffffb 3f 00 00 00 00 4b 4b 4b 4b   333333.?....KKKK
+** 257/289. rekord:
+  00000157f001adc0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 6c 61 68 20 50 65 74 72 61 00 4b 4b 4b 4b 4b   Olah Petra.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  18 10 00 00 6d 00 00 00 14 ffffffae 47 ffffffe1 7a 14 06 40   ....m.....G.z..@
+      0030  14 ffffffae 47 ffffffe1 7a 14 02 40 00 00 00 00 4b 4b 4b 4b   ..G.z..@....KKKK
+** 258/289. rekord:
+  00000157f0015dd0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 75 64 61 69 20 4e 6f 72 62 65 72 74 00 4b 4b   Budai Norbert.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff84 0f 00 00 6d 00 00 00 ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 15 40   .../
+      0030  3d 0a ffffffd7 ffffffa3 70 3d 12 40 00 00 00 00 4b 4b 4b 4b   =...p=.@....KKKK
+** 259/289. rekord:
+  00000157f018add0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  56 65 67 68 20 4a 75 73 7a 74 69 6e 61 00 4b 4b   Vegh Jusztina.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffd0 0d 00 00 6d 00 00 00 1f ffffff85 ffffffeb 51 ffffffb8 1e 07 40   ....m..../
+      0030  ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 13 40 00 00 00 00 4b 4b 4b 4bö
+** 260/289. rekord:
+  00000157f001ede0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 6f 64 6e 61 72 20 53 69 6d 6f 6e 00 4b 4b 4b   Bodnar Simon.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa8 10 00 00 6d 00 00 00 ffffffa4 70 3d 0a ffffffd7 ffffffa3 04 40   ....m..../
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 00 40 0f 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 261/289. rekord:
+  00000157f0017de0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4a 75 68 61 73 7a 20 54 6f 64 6f 72 00 4b 4b 4b   Juhasz Todor.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffa0 0f 00 00 76 00 00 00 00 00 00 00 00 ffffff80 20 40   ....v......... @
+      0030  48 ffffffe1 7a 14 ffffffae 47 12 40 00 00 00 00 4b 4b 4b 4b   H.z..G.@....KKKK
+** 262/289. rekord:
+  00000157f018bde0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 6f 64 6e 61 72 20 47 79 6f 7a 6f 00 4b 4b 4b   Bodnar Gyozo.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+  ....m..........@
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 10 40 00 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 263/289. rekord:
+  00000157f0024e00, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4c 61 6b 61 74 6f 73 20 47 79 6f 72 67 79 00 4b   Lakatos Gyorgy.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  20 11 00 00 6d 00 00 00 5c ffffff8f ffffffc2 fffffff5 28 5c 1b 40    ...m...\...(\./
+      0030  ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 07 40 00 00 00 00 4b 4b 4b 4b   .Q.....@.QR
+** 264/289. rekord:
+  00000157f001be00, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4f 6c 61 68 20 45 6c 65 6b 00 4b 4b 4b 4b 4b 4b   Olah Elek.KKKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  20 10 00 00 6d 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 20 40    ...m......p=. @
+      0030  ffffffe1 7a 14 ffffffae 47 ffffffe1 02 40 00 00 00 00 4b 4b 4b 4b   .z..G..@....KKKz{
+** 265/289. rekord:
+  00000157f001fe20, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 20 49 7a 61 62 65 6c 6c 61 00 4b 4b 4b   Kis Izabella.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffb8 10 00 00 6d 00 00 00 66 66 66 66 66 66 19 40   ....m...ffffff.@
+      0030  1f ffffff85 ffffffeb 51 ffffffb8 1e 12 40 00 00 00 00 4b 4b 4b 4b   ...Q...@....KKKÖ/
+** 266/289. rekord:
+  00000157f018ce20, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  54 6f 72 6f 6b 20 45 6d 6f 64 00 4b 4b 4b 4b 4b   Torok Emod.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe8 0d 00 00 6d 00 00 00 3d 0a ffffffd7 ffffffa3 70 3d 13 40   ....m...=...p=./
+      0030  33 33 33 33 33 33 0b 40 00 00 00 00 4b 4b 4b 4b   333333.@....KKKK
+** 267/289. rekord:
+  00000157f0003e20, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  55 6a 68 65 6c 79 69 20 53 74 65 66 61 6e 69 61   Ujhelyi Stefania
+      0010  00 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   .KKKKKKKKKKKKKKK
+      0020  7c 0d 00 00 76 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 0a 40   |...v..../
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 0f 40 00 00 00 00 4b 4b 4b 4b   ..(\...@.ı/
+** 268/289. rekord:
+  00000157f0025e40, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 7a 6d 61 20 4b 6c 61 72 61 00 4b 4b 4b 4b   Kozma Klara.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffdc 10 00 00 6d 00 00 00 fffffff6 28 5c ffffff8f ffffffc2 fffffff5 00 40   .../
+      0030  ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 0e 40 00 00 00 00 4b 4b 4b 4b   ...(\..@.¬/
+** 269/289. rekord:
+  00000157f0187e50, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  42 6f 67 6e 61 72 20 4b 72 69 73 7a 74 69 61 6e   Bognar Krisztian
+      0010  00 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   .KKKKKKKKKKKKKKK
+  ....m..........@
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 0d 40 00 00 00 00 4b 4b 4b 4b   ..(\...@.ı/
+** 270/289. rekord:
+  00000157f0020e60, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 61 6a 64 75 20 41 70 6f 6c 6c 6f 6e 69 61 00   Hajdu Apollonia.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff90 10 00 00 76 00 00 00 71 3d 0a ffffffd7 ffffffa3 70 17 40   ....v...q=...p./
+      0030  ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 12 40 00 00 00 00 4b 4b 4b 4b   ..(\...@.ı/
+** 271/289. rekord:
+  00000157f002fe70, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 65 6d 65 74 68 20 5a 73 61 6e 65 74 74 00 4b   Nemeth Zsanett.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff9c 11 00 00 76 00 00 00 ffffffb8 1e ffffff85 ffffffeb 51 ffffffb8 18 40   .../
+      0030  52 ffffffb8 1e ffffff85 ffffffeb 51 0a 40 00 00 00 00 4b 4b 4b 4b   R....Q.@....KKK∏/
+** 272/289. rekord:
+  00000157f0026e80, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 61 73 7a 74 6f 72 20 4a 61 63 69 6e 74 00 4b   Pasztor Jacint.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  40 11 00 00 6d 00 00 00 1f ffffff85 ffffffeb 51 ffffffb8 1e 1f 40   @...m......Q.../
+      0030  1f ffffff85 ffffffeb 51 ffffffb8 1e 05 40 00 00 00 00 4b 4b 4b 4b   ...Q...@....KKKÖ/
+** 273/289. rekord:
+  00000157f0021ea0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  46 61 72 6b 61 73 20 45 72 7a 73 65 62 65 74 00   Farkas Erzsebet.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  70 10 00 00 6d 00 00 00 ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 04 40p
+      0030  ffffff8f ffffffc2 fffffff5 28 5c ffffff8f 0a 40 00 00 00 00 4b 4b 4b 4b   ...(\..@.¬/
+** 274/289. rekord:
+  00000157f0030eb0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 65 6d 65 74 20 4b 6c 61 75 64 69 61 00 4b 4b   Nemet Klaudia.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  70 11 00 00 6d 00 00 00 ffffffa4 70 3d 0a ffffffd7 ffffffa3 0a 40   p...m....p=..../
+      0030  ffffffa4 70 3d 0a ffffffd7 ffffffa3 10 40 00 00 00 00 4b 4b 4b 4b   .p=....@....KKKpq
+** 275/289. rekord:
+  00000157f0027ec0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  53 69 70 6f 73 20 42 65 72 74 61 6c 61 6e 00 4b   Sipos Bertalan.K
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  68 11 00 00 76 00 00 00 ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 1d 40   h...v..../
+      0030  66 66 66 66 66 66 08 40 00 00 00 00 4b 4b 4b 4b   ffffff.@....KKKK
+** 276/289. rekord:
+  00000157f0006ec0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 65 6d 65 73 20 54 69 6d 65 61 00 4b 4b 4b 4b   Nemes Timea.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  44 0e 00 00 75 00 00 00 7b 14 ffffffae 47 ffffffe1 fffffffa 20 40   D...u...{..G.. /
+      0030  48 ffffffe1 7a 14 ffffffae 47 0d 40 00 00 00 00 4b 4b 4b 4b   H.z..G.@....KKKK
+** 277/289. rekord:
+  00000157f0188ed0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4e 65 6d 65 74 20 4c 69 64 69 61 00 4b 4b 4b 4b   Nemet Lidia.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffac 0d 00 00 6d 00 00 00 ffffffe1 7a 14 ffffffae 47 ffffffe1 13 40   ....m..../
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 01 40 00 00 00 00 4b 4b 4b 4b   ..Q....@.Î/
+** 278/289. rekord:
+  00000157f000aee0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  48 61 6a 64 75 20 4c 65 6f 6e 61 00 4b 4b 4b 4b   Hajdu Leona.KKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff84 0e 00 00 76 00 00 00 00 00 00 00 00 00 15 40   ....v..........@
+      0030  ffffffe1 7a 14 ffffffae 47 ffffffe1 02 40 00 00 00 00 4b 4b 4b 4b   .z..G..@....KKKz{
+** 279/289. rekord:
+  00000157f0031ef0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  45 72 6f 73 20 4d 61 72 74 69 6e 61 00 4b 4b 4b   Eros Martina.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff94 11 00 00 6d 00 00 00 66 66 66 66 66 66 19 40   ....m...ffffff.@
+      0030  fffffff6 28 5c ffffff8f ffffffc2 fffffff5 04 40 00 00 00 00 4b 4b 4b 4b   .(\....@.()
+** 280/289. rekord:
+  00000157f000cef0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  50 61 70 70 20 41 72 74 75 72 00 4b 4b 4b 4b 4b   Papp Artur.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  fffffff0 0e 00 00 6d 00 00 00 48 ffffffe1 7a 14 ffffffae 47 05 40   ....m...H.z..G./
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 0f 40 00 00 00 00 4b 4b 4b 4b   ..Q....@.Î/
+** 281/289. rekord:
+  00000157f0010f10, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 6f 6c 6e 61 72 20 45 6e 64 72 65 00 4b 4b 4b   Molnar Endre.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  28 0f 00 00 6d 00 00 00 33 33 33 33 33 33 11 40   (...m...333333.@
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 07 40 00 00 00 00 4b 4b 4b 4b   ..Q....@.Î/
+** 282/289. rekord:
+  00000157f0014f30, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 65 73 7a 61 72 6f 73 20 54 69 76 61 64 61 72   Meszaros Tivadar
+      0010  00 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   .KKKKKKKKKKKKKKK
+      0020  78 0f 00 00 6d 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 05 40   x...m..../
+      0030  ffffff9a ffffff99 ffffff99 ffffff99 ffffff99 ffffff99 10 40 09 00 00 00 4b 4b 4b 4bö
+** 283/289. rekord:
+  00000157f0016f40, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4c 65 6e 67 79 65 6c 20 42 65 61 74 61 00 4b 4b   Lengyel Beata.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffff9c 0f 00 00 6d 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 10 40   .../
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 03 40 00 00 00 00 4b 4b 4b 4b   ..Q....@.Î/
+** 284/289. rekord:
+  00000157f001af60, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  54 6f 74 20 42 65 6e 6a 61 6d 69 6e 00 4b 4b 4b   Tot Benjamin.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffec 0f 00 00 76 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f 42 20 40   ....v..../
+      0030  ffffffec 51 ffffffb8 1e ffffff85 ffffffeb 0b 40 00 00 00 00 4b 4b 4b 4b   .Q.....@.QR
+** 285/289. rekord:
+  00000157f001ef80, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 6f 76 61 63 73 20 45 64 69 74 68 00 4b 4b 4b   Kovacs Edith.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  58 10 00 00 6d 00 00 00 33 33 33 33 33 33 01 40   X...m...333333.@
+      0030  ffffff85 ffffffeb 51 ffffffb8 1e ffffff85 0f 40 00 00 00 00 4b 4b 4b 4b   ..Q....@.Î/
+** 286/289. rekord:
+  00000157f018bf80, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4b 69 73 73 20 46 75 6c 6f 70 00 4b 4b 4b 4b 4b   Kiss Fulop.KKKKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffe4 0d 00 00 6d 00 00 00 0a ffffffd7 ffffffa3 70 3d 0a 19 40   ....m......p=../
+      0030  14 ffffffae 47 ffffffe1 7a 14 13 40 0d 00 00 00 4b 4b 4b 4b   ..G.z..@....KKKK
+** 287/289. rekord:
+  00000157f0024fa0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4c 61 6b 61 74 6f 73 20 48 65 72 6d 69 6e 61 00   Lakatos Hermina.
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  24 11 00 00 6d 00 00 00 48 ffffffe1 7a 14 ffffffae 47 18 40   $...m...H.z..G.@
+      0030  ffffffcd ffffffcc ffffffcc ffffffcc ffffffcc ffffffcc 12 40 00 00 00 00 4b 4b 4b 4bÕ
+** 288/289. rekord:
+  00000157f001ffc0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 6f 6c 6e 61 72 20 4b 61 72 69 6e 61 00 4b 4b   Molnar Karina.KK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  ffffffbc 10 00 00 76 00 00 00 48 ffffffe1 7a 14 ffffffae 47 0b 40   ....v...H.z..G./
+      0030  29 5c ffffff8f ffffffc2 fffffff5 28 0c 40 00 00 00 00 4b 4b 4b 4b   )\...(.@....KKK\]
+** 289/289. rekord:
+  00000157f0025fe0, 272 bajt, kanari: ok
+  ./headerek/adatkezeles.c:99, malloc(sizeof(szoba_struct))
+      0000  4d 6f 6c 6e 61 72 20 5a 65 6c 6d 61 00 4b 4b 4b   Molnar Zelma.KKK
+      0010  4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b 4b   KKKKKKKKKKKKKKKK
+      0020  38 11 00 00 76 00 00 00 ffffffc3 fffffff5 28 5c ffffff8f ffffffc2 0b 40   8...v..../
+      0030  3d 0a ffffffd7 ffffffa3 70 3d 00 40 00 00 00 00 4b 4b 4b 4b   =...p=.@....KKKK
+** DEBUGMALLOC DUMP VEGE *******************************
