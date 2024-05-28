@@ -1,2 +1,1 @@
-# p1nagyhazi
-Programozas 1 nagyhazi
+# BME VIK Basics of Programming I. Homework
